@@ -1,0 +1,3 @@
+files:
+  - source: /Core/src/main/resources/lang/messages_en.json
+    translation: /Core/src/main/resources/lang/%two_letters_code%
