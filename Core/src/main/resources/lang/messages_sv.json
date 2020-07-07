@@ -1,6 +1,6 @@
 {
-  "confirm.expired_confirm": "<gray>Confirmation has expired, please run the command again!</gray>",
-  "confirm.failed_confirm": "<gray>You have no pending actions to confirm!</gray>",
+  "confirm.expired_confirm": "<gray>Bekräftelsen har löpt ut, vänligen kör kommandot igen!</gray>",
+  "confirm.failed_confirm": "<gray>Du har inga väntande åtgärder att bekräfta!</gray>",
   "confirm.requires_confirm": "<gray>Are you sure you wish to execute: </gray><gold><command></orange><gray>?</gray>\n<red>This cannot be undone! If you are sure: </red><gray>/plot confirm</gray>",
   "move.move_success": "<dark_aqua>Successfully moved plot.</dark_aqua>",
   "move.move_merged": "<gray>Merged plots may not be moved. Please unmerge the plot before performing the move.</gray>",
