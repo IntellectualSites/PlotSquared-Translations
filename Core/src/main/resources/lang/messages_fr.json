@@ -253,7 +253,7 @@
   "schematics.schematic_road_created": "<prefix><gold>Nouveau schéma de route sauvegardé. Afin de le tester, veuillez vous déplacer vers les parcelles alentours et exécuter <command>.</gold>",
   "debugroadregen.schematic": "<prefix><red>Si aucun schéma n'est défini, ce qui suit ne fera rien.</red>\n<gray> - Afin de éfinir un schéma, veuillez vous placer au sein d'une parcelle et utiliser </gray><red><command></red>",
   "debugroadregen.regenallroads": "<prefix><red>Pour régénérer toutes les routes : <command></red>",
-  "debugroadregen.regenallroads_started": "<prefix><green>PlotSquared will now attempt to generate roads based on your input. This may take a while.</green>",
+  "debugroadregen.regenallroads_started": "<prefix><green>PlotSquared va maintenant essayer de générer les routes en fonction des informations entrées. Cela pourrait prendre un moment.</green>",
   "errors.invalid_player": "<prefix><red>Joueur non trouvé : </red><gray><value></gray><red>.</red>",
   "errors.invalid_player_offline": "<prefix><gray><player></gray><red> doit être en ligne.</red>",
   "errors.invalid_command_flag": "<prefix><red>Paramètre de commande invalide : </red><value></gray>",
