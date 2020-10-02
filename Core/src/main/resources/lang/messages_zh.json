@@ -62,7 +62,7 @@
   "swap.swap_success": "<prefix><dark_aqua>成功交换地皮。</dark_aqua>",
   "swap.swap_merged": "<prefix><red>合并的地皮可能无法移动。请在移动之前取消地皮合并。</red>",
   "comment.inbox_notification": "<prefix><dark_aqua><amount> </dark_aqua><gray>条未读消息。使用 <command>。</gray>",
-  "comment.not_valid_inbox_index": "<prefix><gray>No comment at index <number>.</gray>",
+  "comment.not_valid_inbox_index": "<prefix><gray>在索引页 <number> 中没有评论。</gray>",
   "comment.inbox_item": "<gray>- </gray><dark_aqua><value></dark_aqua>",
   "comment.comment_syntax": "<prefix><gray>使用 <command> <<list>> <comment></gray>",
   "comment.invalid_inbox": "<prefix><gray>这不是一个有效的收件箱。</gray>\n<gold>接受的值： <list></gold>",
