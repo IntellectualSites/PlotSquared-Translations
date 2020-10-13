@@ -1,5 +1,5 @@
 {
-  "confirm.expired_confirm": "<prefix><red>La confirmation a expiré, veuillez réitérer votre commande !</red>",
+  "confirm.expired_confirm": "<prefix><red>La confirmation a expiré, veuillez relancer la commande !</red>",
   "confirm.failed_confirm": "<prefix><red>Vous n'avez aucune action en attente de confirmation !</red>",
   "confirm.requires_confirm": "<prefix><gray>Êtes-vous sûr de vouloir exécuter : </gray><gold><command></gold><gray>?</gray>\n<red>Cette action est irréversible ! Si c'est le cas, veuillez utiliser </red><gray><value></gray>",
   "move.move_success": "<prefix><dark_aqua>Parcelle déplacée avec succès.</dark_aqua>",
@@ -401,7 +401,7 @@
   "category.command_category_debug": "<gray>Debug</gray>",
   "category.command_category_administration": "<gray>Admin</gray>",
   "grants.granted_plots": "<prefix><gold>Résultat : <gray><amount> </gray>protection(s) restante(s).</gold>",
-  "grants.added": "<prefix><gold><grants></gold> <gray>grant(s) have been added.</gray>",
+  "grants.added": "<prefix><gold><grants></gold> <gray>L(Les)'acces a été ajoutés.</gray>",
   "events.event_denied": "<prefix><gold><value> </gold><gray>Annulé par un plugin externe.</gray>",
   "backups.backup_impossible": "<prefix><gray>Les sauvegardes ne sont pas autorisées au sein de cette parcelle : <plot>.</gray>",
   "backups.backup_save_success": "<prefix><gold>Sauvegarde créée avec succès.</gold>",
