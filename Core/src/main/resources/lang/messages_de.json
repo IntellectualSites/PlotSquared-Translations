@@ -1,5 +1,5 @@
 {
-  "confirm.expired_confirm": "<prefix><red>Bestätigung ist abgelaufen, bitte führen Sie den Befehl erneut aus!</red>",
+  "confirm.expired_confirm": "<prefix><red>Bestätigung ist abgelaufen, bitte führ den Befehl erneut aus!</red>",
   "confirm.failed_confirm": "<prefix><red>Sie haben keine ausstehenden Aktionen zu bestätigen!</red>",
   "confirm.requires_confirm": "<prefix><gray>Sind Sie sicher, dass Sie </gray><gold><command></gold><gray> ausführen wollen?</gray>\n<red>Dies kann nicht rückgängig gemacht werden! Wenn du sicher bist: </red><gray><value></gray>",
   "move.move_success": "<prefix><dark_aqua>Plot erfolgreich verschoben.</dark_aqua>",
