@@ -15,7 +15,7 @@
   "debug.cached_uuids": "<prefix><gold>Es sind </gold><gray><value></gray> <gold>UUIDs zwischengespeichert.</gold>",
   "debug.player_in_debugmode": "<prefix><gold>Spieler im Debug-Modus: </gold>",
   "debug.player_in_debugmode_list": "<gold>- </gold><gray><value></gray>\n",
-  "debug.entity_categories": "<prefix><red>Entity categories:</red>",
+  "debug.entity_categories": "<prefix><red>Verfügbare Kreaturen:</red>",
   "set.set_attribute": "<prefix><dark_aqua>Erfolgreich <attribute> auf <value>gesetzt.</dark_aqua>",
   "area.set_pos2": "Platziere nun pos2: <command>. Hinweis: Die gewählte Größe des Plots kann dazu führen, dass der erstellte Bereich nicht genau zur zweiten Position passt.",
   "web.generating_link": "<prefix><gold>Verarbeite Plot...</gold>",
