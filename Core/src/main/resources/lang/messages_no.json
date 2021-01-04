@@ -34,7 +34,7 @@
   "cluster.cluster_list_element_owner": "<prefix><gray> - </gray><green><cluster></green>\n",
   "cluster.cluster_list_element_helpers": "<prefix><gray> - </gray><dark_aqua><cluster></dark_aqua>\n",
   "cluster.cluster_list_element_invited": "<prefix><gray> - </gray><blue><cluster></blue>\n",
-  "cluster.cluster_intersection": "<prefix><gray>Det foreslåtte område overlapper med: <cluster></gray>",
+  "cluster.cluster_intersection": "<prefix><gray>Det foreslåtte området overlapper med: <cluster></gray>",
   "cluster.cluster_outside": "<prefix><gray>Det foreslåtte området ligger utenfor tomteområdet: <area></gray>",
   "cluster.cluster_added": "<prefix><dark_aqua>Opprettet klyngen.</dark_aqua>",
   "cluster.cluster_deleted": "<prefix><dark_aqua>Slettet klyngen.</dark_aqua>",
