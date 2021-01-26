@@ -40,7 +40,7 @@
   "cluster.cluster_deleted": "<prefix><dark_aqua>A cluster törlése sikerült.</dark_aqua>",
   "cluster.cluster_resized": "<prefix><dark_aqua>A cluster átméretezése sikerült.</dark_aqua>",
   "cluster.cluster_added_user": "<prefix><dark_aqua>Sikeresen hozzáadta a felhasználót a plothoz.</dark_aqua>",
-  "cluster.cannot_kick_player": "<prefix><red>You cannot kick that player: </red><gray><name></gray>",
+  "cluster.cannot_kick_player": "<prefix><red>Nem rúghatod ki ezt a játékost: </red><gray><name></gray>",
   "cluster.cluster_invited": "<prefix><gold>You have been invited to the following cluster: </gold><gray><cluster>.</gray>",
   "cluster.cluster_removed": "<prefix><gold>You have been removed from cluster: </gold><gray><cluster>.</gray>",
   "cluster.cluster_kicked_user": "<prefix><dark_aqua>Successfully kicked the user from the cluster.</dark_aqua>",
