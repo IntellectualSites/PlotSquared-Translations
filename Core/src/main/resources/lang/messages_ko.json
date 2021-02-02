@@ -1,6 +1,6 @@
 {
   "confirm.expired_confirm": "<prefix><red>만료된 작업입니다. 명령어를 다시 입력해 주세요.</red>",
-  "confirm.failed_confirm": "<prefix><red>You have no pending actions to confirm!</red>",
+  "confirm.failed_confirm": "<prefix><red>대기중인 요청이 없습니다!</red>",
   "confirm.requires_confirm": "<prefix><gray>Are you sure you wish to execute: </gray><gold><command></gold><gray>?</gray>\n<red>This cannot be undone! If you are sure: </red><gray><value></gray>",
   "move.move_success": "<prefix><dark_aqua>성공적으로 플롯을 옮겼습니다.</dark_aqua>",
   "move.move_merged": "<prefix><red>Merged plots may not be moved. Please unmerge the plot before performing the move.</red>",
