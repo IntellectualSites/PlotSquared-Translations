@@ -177,7 +177,7 @@
   "permission.no_permission_event": "<prefix><red>Brakuje Ci uprawnień: <gold><node></gold>.</red>",
   "permission.no_plot_perms": "<prefix><red>Musisz być właścicielem działki, aby wykonać tę czynność.</red>",
   "permission.cant_claim_more_plots": "<prefix><red>Nie możesz przejąć więcej niż <gold><amount> </gold>działek.</red>",
-  "permission.cant_claim_more_clusters": "<prefix><red>You can't claim more than <gold><amount> </gold>clusters.</red>",
+  "permission.cant_claim_more_clusters": "<prefix><red> Nie możesz zająć więcej niż <gold><amount> </gold>działek.</red>",
   "permission.cant_transfer_more_plots": "<prefix><red>Nie możesz wysłać więcej działek temu użytkownikowi.</red>",
   "permission.cant_claim_more_plots_num": "<prefix><red>Nie możesz przejąć więcej niż <gold><amount> </gold>działek jednocześnie.</red>",
   "merge.merge_request_confirm": "<prefix><gray>Połącz żądanie od </gray><gold><player></gold><gray>.</gray>",
