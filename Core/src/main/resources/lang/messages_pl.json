@@ -37,7 +37,7 @@
   "cluster.cluster_intersection": "<prefix><gray>Proponowany obszar pokrywa się z: <cluster></gray>",
   "cluster.cluster_outside": "<prefix><gray>Proponowany obszar znajduje się poza obszarem działki: <area></gray>",
   "cluster.cluster_added": "<prefix><dark_aqua>Pomyślnie utworzono klaster.</dark_aqua>",
-  "cluster.cluster_deleted": "<prefix><dark_aqua>Pomyślnie przeniesiono działkę.</dark_aqua>",
+  "cluster.cluster_deleted": "<prefix><dark_aqua>Successfully deleted the cluster <cluster>.</dark_aqua>",
   "cluster.cluster_resized": "<prefix><dark_aqua>Pomyślnie zmieniono rozmiar klastra.</dark_aqua>",
   "cluster.cluster_added_user": "<prefix><dark_aqua>Użytkownik został pomyślnie dodany do klastra.</dark_aqua>",
   "cluster.cannot_kick_player": "<prefix><red>Nie możesz wyrzucić tego gracza: </red><gray><name></gray>",
