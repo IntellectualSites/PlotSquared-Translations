@@ -37,7 +37,7 @@
   "cluster.cluster_intersection": "<prefix><gray>Ehdotettu alue on päällekkäin: <cluster> kanssa</gray>",
   "cluster.cluster_outside": "<prefix><gray>Ehdotettu alue on plottialueen ulkopuolella: <area></gray>",
   "cluster.cluster_added": "<prefix><dark_aqua>Klusteri luotiin onnistuneesti.</dark_aqua>",
-  "cluster.cluster_deleted": "<prefix><dark_aqua>Klusteri poistettiin onnistuneesti.</dark_aqua>",
+  "cluster.cluster_deleted": "<prefix><dark_aqua>Successfully deleted the cluster <cluster>.</dark_aqua>",
   "cluster.cluster_resized": "<prefix><dark_aqua>Klusterin koko muutettiin onnistuneesti.</dark_aqua>",
   "cluster.cluster_added_user": "<prefix><dark_aqua>Käyttäjä listätty klusteriin onnistuneesti.</dark_aqua>",
   "cluster.cannot_kick_player": "<prefix><red>Et voi potkia tuota pelaajaa: </red><gray><name></gray>",
