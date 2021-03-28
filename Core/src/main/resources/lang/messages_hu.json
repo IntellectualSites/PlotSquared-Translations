@@ -37,7 +37,7 @@
   "cluster.cluster_intersection": "<prefix><gray>A javasolt terület átfedésben van a következővel: <cluster></gray>",
   "cluster.cluster_outside": "<prefix><gray>A javasolt terület kívül van ezen a plot-területen: <area></gray>",
   "cluster.cluster_added": "<prefix><dark_aqua>A cluster sikeresen létrejött.</dark_aqua>",
-  "cluster.cluster_deleted": "<prefix><dark_aqua>A cluster törlése sikerült.</dark_aqua>",
+  "cluster.cluster_deleted": "<prefix><dark_aqua>Successfully deleted the cluster <cluster>.</dark_aqua>",
   "cluster.cluster_resized": "<prefix><dark_aqua>A cluster átméretezése sikerült.</dark_aqua>",
   "cluster.cluster_added_user": "<prefix><dark_aqua>Sikeresen hozzáadta a felhasználót a plothoz.</dark_aqua>",
   "cluster.cannot_kick_player": "<prefix><red>Nem rúghatod ki ezt a játékost: </red><gray><name></gray>",
