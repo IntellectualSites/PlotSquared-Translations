@@ -37,7 +37,7 @@
   "cluster.cluster_intersection": "<prefix><gray>The proposed area overlaps with: <cluster></gray>",
   "cluster.cluster_outside": "<prefix><gray>The proposed area is outside the plot area: <area></gray>",
   "cluster.cluster_added": "<prefix><dark_aqua>성공적으로 클러스터를 생성했습니다.</dark_aqua>",
-  "cluster.cluster_deleted": "<prefix><dark_aqua>성공적으로 클러스터를 제거했습니다.</dark_aqua>",
+  "cluster.cluster_deleted": "<prefix><dark_aqua>Successfully deleted the cluster <cluster>.</dark_aqua>",
   "cluster.cluster_resized": "<prefix><dark_aqua>Successfully resized the cluster.</dark_aqua>",
   "cluster.cluster_added_user": "<prefix><dark_aqua>Successfully added user to the cluster.</dark_aqua>",
   "cluster.cannot_kick_player": "<prefix><red>당신은 이 플레이어를 추방할 수 없습니다: </red><gray><name></gray>",
