@@ -37,7 +37,7 @@
   "cluster.cluster_intersection": "<prefix><gray>Det föreslagna området överlappar med: <cluster></gray>",
   "cluster.cluster_outside": "<prefix><gray>Det föreslagna området ligger utanför tomtområdet: <area></gray>",
   "cluster.cluster_added": "<prefix><dark_aqua>Skapade klustret utan problem.</dark_aqua>",
-  "cluster.cluster_deleted": "<prefix><dark_aqua>Tog bort klustret utan problem.</dark_aqua>",
+  "cluster.cluster_deleted": "<prefix><dark_aqua>Successfully deleted the cluster <cluster>.</dark_aqua>",
   "cluster.cluster_resized": "<prefix><dark_aqua>Omskalade klustret utan problem.</dark_aqua>",
   "cluster.cluster_added_user": "<prefix><dark_aqua>Användaren blev tillagd till klustret utan problem.</dark_aqua>",
   "cluster.cannot_kick_player": "<prefix><red>Du kan inte sparka den spelaren: </red><gray><name></gray>",
