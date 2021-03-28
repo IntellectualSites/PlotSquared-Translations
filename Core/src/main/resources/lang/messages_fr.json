@@ -37,7 +37,7 @@
   "cluster.cluster_intersection": "<prefix><gray>La zone proposée empiète sur : <cluster></gray>",
   "cluster.cluster_outside": "<prefix><gray>La zone proposée est en dehors de celle des parcelles : <area></gray>",
   "cluster.cluster_added": "<prefix><dark_aqua>Groupe créé avec succès.</dark_aqua>",
-  "cluster.cluster_deleted": "<prefix><dark_aqua>Groupe supprimé avec succès.</dark_aqua>",
+  "cluster.cluster_deleted": "<prefix><dark_aqua>Successfully deleted the cluster <cluster>.</dark_aqua>",
   "cluster.cluster_resized": "<prefix><dark_aqua>Groupe redimensionné avec succès.</dark_aqua>",
   "cluster.cluster_added_user": "<prefix><dark_aqua>Joueur ajouté au groupe avec succès.</dark_aqua>",
   "cluster.cannot_kick_player": "<prefix><red>Vous ne pouvez pas expulser ce joueur : </red><gray><name></gray>",
