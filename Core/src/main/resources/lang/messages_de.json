@@ -37,7 +37,7 @@
   "cluster.cluster_intersection": "<prefix><gray>Der gewünschte Bereich überschneidet sich mit: <cluster></gray>",
   "cluster.cluster_outside": "<prefix><gray>Der gewünschte Bereich befindet sich außerhalb des Plot Bereiches: <area></gray>",
   "cluster.cluster_added": "<prefix><dark_aqua>Cluster erfolgreich erstellt.</dark_aqua>",
-  "cluster.cluster_deleted": "<prefix><dark_aqua>Cluster erfolgreich gelöscht.</dark_aqua>",
+  "cluster.cluster_deleted": "<prefix><dark_aqua>Successfully deleted the cluster <cluster>.</dark_aqua>",
   "cluster.cluster_resized": "<prefix><dark_aqua>Cluster erfolgreich neu-definiert.</dark_aqua>",
   "cluster.cluster_added_user": "<prefix><dark_aqua>Spieler erfolgreich zum Cluster hinzugefügt.</dark_aqua>",
   "cluster.cannot_kick_player": "<prefix><red>Du kannst diesen Spieler nicht kicken: </red><gray><name></gray>",
