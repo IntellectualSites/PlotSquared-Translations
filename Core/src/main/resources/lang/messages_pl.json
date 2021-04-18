@@ -1,5 +1,5 @@
 {
-  "confirm.expired_confirm": "<prefix><red>Potwierdzenie wygasło, uruchom polecenie ponownie!</red>",
+  "confirm.expired_confirm": "<prefix><red>Potwierdzenie wygasło, wykonaj komendę ponownie!</red>",
   "confirm.failed_confirm": "<prefix><red>Nie masz oczekujących działań do potwierdzenia!</red>",
   "confirm.requires_confirm": "<prefix><gray>Na pewno chcesz wykonać: </gray><gold><command></gold><gray>?</gray>\n<red>Nie można tego cofnąć! Jeśli jesteś pewny: </red><gray><value></gray>",
   "move.move_success": "<prefix><dark_aqua>Pomyślnie przeniesiono działkę.</dark_aqua>",
@@ -552,7 +552,7 @@
   "flags.flag_description_snow_melt": "<gray>Ustaw na `true` aby umożliwić topnienie śniegu na działce.</gray>",
   "flags.flag_description_soil_dry": "<gray>Set to `true` to allow soil to dry within the plot.</gray>",
   "flags.flag_description_coral_dry": "<gray>Set to `true` to allow coral blocks to dry within the plot.</gray>",
-  "flags.flag_description_crop_grow": "<gray>Set to `false` to disable crop growing on the plot</gray>",
+  "flags.flag_description_crop_grow": "<gray>Ustaw na `false` aby wyłączyć rośnięcie upraw na działce</gray>",
   "flags.flag_description_tamed_attack": "<gray>Ustaw na `true`, aby umożliwić gościom atakowanie oswojonych zwierząt na działce.</gray>",
   "flags.flag_description_tamed_interact": "<gray>Ustaw na `true`, aby umożliwić gościom interakcję z oswojonymi zwierzętami na działce.</gray>",
   "flags.flag_description_time": "<gray>Ustaw czas na działce na stałą wartość</gray>",
