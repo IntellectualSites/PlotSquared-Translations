@@ -37,7 +37,7 @@
   "cluster.cluster_intersection": "<prefix><gray>Det foreslåtte området overlapper med: <cluster></gray>",
   "cluster.cluster_outside": "<prefix><gray>Det foreslåtte området ligger utenfor tomteområdet: <area></gray>",
   "cluster.cluster_added": "<prefix><dark_aqua>Opprettet klyngen.</dark_aqua>",
-  "cluster.cluster_deleted": "<prefix><dark_aqua>Successfully deleted the cluster <cluster>.</dark_aqua>",
+  "cluster.cluster_deleted": "<prefix><dark_aqua>Slettet klyngen <cluster>.</dark_aqua>",
   "cluster.cluster_resized": "<prefix><dark_aqua>Endret størrelse på klyngen.</dark_aqua>",
   "cluster.cluster_added_user": "<prefix><dark_aqua>La til bruker i klyngen.</dark_aqua>",
   "cluster.cannot_kick_player": "<prefix><red>Du kan ikke sparke den spilleren: </red><gray><name></gray>",
