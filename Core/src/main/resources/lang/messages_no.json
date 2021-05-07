@@ -2,7 +2,7 @@
   "confirm.expired_confirm": "<prefix><red>Bekreftelse utløpt, vennligst kjør kommandoen igjen!</red>",
   "confirm.failed_confirm": "<prefix><red>Du har ingen ventende handlinger å bekrefte!</red>",
   "confirm.requires_confirm": "<prefix><gray>Er du sikker på at du vil kjøre: </gray><gold><command></gold><gray>?</gray>\n<red>Dette kan ikke angres! Hvis du er sikker: </red><gray><value></gray>",
-  "move.move_success": "<prefix><dark_aqua>Successfully moved the plot</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
+  "move.move_success": "<prefix><dark_aqua>Flyttet tomten</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
   "move.move_merged": "<prefix><red>Sammensatte tomter kan ikke flyttes. Koble fra tomtene før du flytter</red>",
   "move.copy_success": "<prefix><dark_aqua>Successfully copied plots</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
   "move.requires_unowned": "<prefix><red>Den spesifiserte plasseringen er allerede opptatt</red>",
