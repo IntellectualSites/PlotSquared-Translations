@@ -655,8 +655,8 @@
   "commands.description.merge": "<gray>Merge the plot you are standing on with another plot.</gray>",
   "commands.description.middle": "<gray>Teleports you to the center of the plot.</gray>",
   "commands.description.move": "<gray>Move a plot.</gray>",
-  "commands.description.music": "<gray>Play music in your plot.</gray>",
-  "commands.description.near": "<gray>Display nearby players.</gray>",
+  "commands.description.music": "<gray>Zene lejátszása a telkén.</gray>",
+  "commands.description.near": "<gray>Közeli játékosok mutatása.</gray>",
   "commands.description.plugin": "<gray>Show plugin information.</gray>",
   "commands.description.purge": "<gray>Purge all plots for a world.</gray>",
   "commands.description.rate": "<gray>Rate a plot.</gray>",
@@ -664,9 +664,9 @@
   "commands.description.relight": "<gray>Relight your plot.</gray>",
   "commands.description.reload": "<gray>Reload translations and world settings.</gray>",
   "commands.description.remove": "<gray>Remove a player from a plot.</gray>",
-  "commands.description.save": "<gray>Save your plot.</gray>",
+  "commands.description.save": "<gray>Telek mentése.</gray>",
   "commands.description.schematic": "<gray>Manage schematics.</gray>",
-  "commands.description.set": "<gray>Set a plot value.</gray>",
+  "commands.description.set": "<gray>Telek értékének beállítása.</gray>",
   "commands.description.setbiome": "<gray>Set the plot biome.</gray>",
   "commands.description.setdescription": "<gray>Set the plot description.</gray>",
   "commands.description.sethome": "<gray>Set the plot home.</gray>",
@@ -691,5 +691,5 @@
   "plotjukebox.jukebox_header": "Plot Jukebox",
   "plotjukebox.click_to_play": "<green>Click to play!</green>",
   "plotjukebox.cancel_music": "<gold>Cancel music</gold>",
-  "plotjukebox.reset_music": "<red>Click to remove the music!</red>"
+  "plotjukebox.reset_music": "<red>Kattintson hogy eltávolítsa a zenét</red>"
 }
