@@ -1,5 +1,5 @@
 {
-  "confirm.expired_confirm": "<prefix><red>Bevestiging is verlopen, voer het commando alstublieft opnieuw uit!</red>",
+  "confirm.expired_confirm": "<prefix><red>De bevestiging is verlopen, voer het commando alstublieft opnieuw uit!</red>",
   "confirm.failed_confirm": "<prefix><red>U heeft geen openstaande acties om te bevestigen!</red>",
   "confirm.requires_confirm": "<prefix><gray>Weet u zeker dat u wilt uitvoeren: </gray><gold><command></gold><gray>?</gray>\n<red>Dit kan niet ongedaan worden gemaakt! Als u het zeker weet: </red><gray><value></gray>",
   "move.move_success": "<prefix><dark_aqua>Plot</dark_aqua> <gold><origin></gold><dark_aqua> succesvol verplaatst naar </dark_aqua><gold><target></gold>",
@@ -13,7 +13,7 @@
   "debug.plot_debug": "<gray>[<gold>Plot </gold><gray>Debug] (</gray><gold><plot></gold><gray>): <message></gray>",
   "debug.fetching_loaded_chunks": "<prefix><gold>Geladen chunks ophalen...</gold>",
   "debug.cached_uuids": "<prefix><gold>Er zijn </gold><gray><value></gray> <gold>UUIDs gecached.</gold>",
-  "debug.player_in_debugmode": "<prefix><gold>Speler(s) in debugmodus: </gold>",
+  "debug.player_in_debugmode": "<prefix><gold>Speler(s) in debug-modus: </gold>",
   "debug.player_in_debugmode_list": "<gold>- </gold><gray><value></gray>\n",
   "debug.entity_categories": "<prefix><red>Entiteit categorieën:</red>",
   "set.set_attribute": "<prefix><dark_aqua><attribute> succesvol ingesteld op <value>.</dark_aqua>",
