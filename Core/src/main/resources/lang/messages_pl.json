@@ -565,6 +565,7 @@
   "flags.flag_description_mob_break": "<gray>Ustaw na `true`, aby umożliwić mobom niszczenie bloków na działce.</gray>",
   "flags.flag_description_mob_cap": "<gray>Ustaw wartość całkowitą aby ograniczyć ilość mobów na działce.</gray>",
   "flags.flag_description_mob_place": "<gray>Ustaw na `true`, aby umożliwić mobom umieszczenie bloków na działce.</gray>",
+  "flags.flag_description_entity_change_block": "<gray>Set to `true` to allow entities to change blocks within the plot, if not covered by other flags.</gray>",
   "flags.flag_description_mycel_grow": "<gray>Ustaw na `false` aby zapobiec wzrostowi grzybni na działce.</gray>",
   "flags.flag_description_notify_enter": "<gray>Ustaw na `true` aby powiadomić właścicieli działki, gdy ktoś wejdzie na działkę.</gray>",
   "flags.flag_description_notify_leave": "<gray>Ustaw na `true` aby powiadomić właścicieli działki, gdy ktoś opuści działkę.</gray>",
