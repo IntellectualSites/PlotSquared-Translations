@@ -565,7 +565,7 @@
   "flags.flag_description_mob_break": "<gray>Définissez ce paramètre à `true` afin d'autoriser les mobs à casser des blocs au sein de la parcelle.</gray>",
   "flags.flag_description_mob_cap": "<gray>Définissez ce paramètre à un nombre entier afin de limiter le nombre de mobs au sein de la parcelle.</gray>",
   "flags.flag_description_mob_place": "<gray>Définissez ce paramètre à `true` afin d'autoriser les mobs à poser des blocs au sein de la parcelle.</gray>",
-  "flags.flag_description_entity_change_block": "<gray>Set to `true` to allow entities to change blocks within the plot, if not covered by other flags.</gray>",
+  "flags.flag_description_entity_change_block": "<gray>Définissez ce paramètre à `true` afin d'autoriser les entités à changer des blocs au sein de la parcelle, si non couvert par d'autres paramètres.</gray>",
   "flags.flag_description_mycel_grow": "<gray>Définissez ce paramètre à `false` afin d'empêcher la propagation du mycélium au sein de la parcelle.</gray>",
   "flags.flag_description_notify_enter": "<gray>Définissez ce paramètre à `true` afin de notifier les propriétaires lorsqu'un joueur entre dans la parcelle.</gray>",
   "flags.flag_description_notify_leave": "<gray>Définissez ce paramètre à `true` afin de notifier les propriétaires lorsqu'un joueur sort de la parcelle.</gray>",
