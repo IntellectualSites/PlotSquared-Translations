@@ -565,6 +565,7 @@
   "flags.flag_description_mob_break": "<gray>Zet op `true` om mobs toe te staan blokken te breken binnen het plot.</gray>",
   "flags.flag_description_mob_cap": "<gray>Zet op een geheel getal om het aantal mobs op het plot te beperken.</gray>",
   "flags.flag_description_mob_place": "<gray>Zet op `true` om mobs toe te staan blokken te breken binnen het plot.</gray>",
+  "flags.flag_description_entity_change_block": "<gray>Set to `true` to allow entities to change blocks within the plot, if not covered by other flags.</gray>",
   "flags.flag_description_mycel_grow": "<gray>Zet op `false` om te voorkomen dat mycelium in het plot kan groeien.</gray>",
   "flags.flag_description_notify_enter": "<gray>Zet op `true` om de plot eigenaren op de hoogte te stellen wanneer iemand het plot betreedt.</gray>",
   "flags.flag_description_notify_leave": "<gray>Zet op `true` om de plot eigenaren op de hoogte te stellen wanneer iemand het plot verlaat.</gray>",
