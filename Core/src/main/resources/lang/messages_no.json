@@ -565,6 +565,7 @@
   "flags.flag_description_mob_break": "<gray>Sett til 'sann' for å tillate vesener å knuse blokker inne på tomten.</gray>",
   "flags.flag_description_mob_cap": "<gray>Sett til et heltallsverdi for å begrense antall vesener på tomten.</gray>",
   "flags.flag_description_mob_place": "<gray>Sett til 'sann' for å tillate vesener å plassere blokker innenfor tomten.</gray>",
+  "flags.flag_description_entity_change_block": "<gray>Set to `true` to allow entities to change blocks within the plot, if not covered by other flags.</gray>",
   "flags.flag_description_mycel_grow": "<gray>Sett til 'usann' for å hindre mycelium fra å vokse på tomten.</gray>",
   "flags.flag_description_notify_enter": "<gray>Sett til 'sann' for å varsle tomteeieren når noen går inn til tomten.</gray>",
   "flags.flag_description_notify_leave": "<gray>Sett til 'sann' for å varsle tomteeierne når noen forlater tomten.</gray>",
