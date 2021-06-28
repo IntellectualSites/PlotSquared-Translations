@@ -479,7 +479,7 @@
   "legacyconfig.legacy_config_done": "<prefix><green>La conversion est terminée. PlotSquared sera désormais désactivé et le nouveau fichier de configuration sera utilisé au prochain démarrage du serveur. Veuillez consulter le nouveau fichier `worlds.yml` afin d'y vérifier les valeurs. Veuillez noter que les schémas ne seront pas convertis, car nous utilisons désormais WorldEdit pour traiter ceux-ci. Vous devrez les régénérer.</green>",
   "legacyconfig.legacy_config_conversion_failed": "<prefix><red>Échec lors de la conversion de l'ancien fichier de configuration. Veuillez consultez les logs pour plus d'informations.</red>",
   "update.update_boundary": "<gold>-----------------------------------</gold>",
-  "update.update_notification": "<prefix><gold>There appears to be a PlotSquared update available!</gold>\n<gold>You are running version </gold><dark_aqua><p2version></dark_aqua>\n<gold>Latest version is </gold><dark_aqua><spigotversion></dark_aqua>\n<gold>Download the update at: <click:open_url:<downloadurl>><downloadurl></click>",
+  "update.update_notification": "<prefix><gold>Il semble qu’une mise à jour de PlotSquared soit disponible !</gold>\n<gold>Vous utilisez la version </gold><dark_aqua><p2version></dark_aqua>\n<gold>La dernière version est </gold><dark_aqua><spigotversion></dark_aqua>\n<gold>Téléchargez la mise à jour ici : <click:open_url:<downloadurl>><downloadurl></click>",
   "flag.flag_key": "<gray>Clé : <key></gray>",
   "flag.flag_desc": "<gray>Description : <value></gray>",
   "flag.not_valid_flag": "<red>Paramètre invalide.</red>",
