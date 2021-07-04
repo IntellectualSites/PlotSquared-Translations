@@ -1,7 +1,7 @@
 {
   "confirm.expired_confirm": "<prefix><red>Lejárt az idő a megerősítésre. Futtassa újra a parancsot!</red>",
   "confirm.failed_confirm": "<prefix><red>Nincs folyamatban levő művelet</red>",
-  "confirm.requires_confirm": "<prefix><gray>Are you sure you wish to execute: </gray><gold><command></gold><gray>?</gray>\n<red>This cannot be undone! If you are sure: </red><gray><value></gray>\n<gray>The request times out in <red><timeout></red><gray> seconds. ",
+  "confirm.requires_confirm": "<prefix><gray>Valóban végre kívánja hajtani: </gray><gold><command></gold><gray>?</gray>\n<red>Ez a művelet nem lesz visszavonható! Ha biztos benne: </red><gray><value></gray>. ",
   "move.move_success": "<prefix><dark_aqua>Successfully moved the plot</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
   "move.move_merged": "<prefix><red>Összevont plotokat nem lehet áthelyezni. Válassza szét a plotokat áthelyezés előtt.</red>",
   "move.copy_success": "<prefix><dark_aqua>Successfully copied plots</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
