@@ -410,7 +410,7 @@
   "member.plot_cant_leave_owner": "<prefix><red>You are the plot owner. You cannot leave this plot.</red>",
   "member.already_owner": "<prefix><gray><player></gray><gold> is already the plot owner.</gold>",
   "member.already_added": "<prefix><gray>That user is already added to that category: <player></gray>",
-  "member.member_added": "<prefix><dark_aqua> Esse player pode construir enquanto VOCÊ estiver ONLINE.</dark_aqua>",
+  "member.member_added": "<prefix><dark_aqua> Esse player pode construir enquanto você estiver online.</dark_aqua>",
   "members.plot_max_members_added": "<prefix><red>You are not allowed to add more than </red><gold><amount></gold><red> players to this plot.</red>",
   "members.plot_max_members_trusted": "<prefix><red>You are not allowed to trust more than </red><gold><amount></gold><red> players to this plot.</red>",
   "members.plot_max_members_denied": "<prefix><red>You are not allowed to deny more than </red><gold><amount></gold><red> players from this plot.</red>",
