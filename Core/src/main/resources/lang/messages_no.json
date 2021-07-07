@@ -456,7 +456,7 @@
   "preset.preset_cannot_afford": "<prefix><red>Du har ikke råd til den forhåndsinnstillingen.</red>",
   "preset.preset_invalid": "<prefix><red>Kunne ikke generere et mønster fra forhåndsinnstillingen.</red>",
   "preset.preset_lore_cost": "<prefix><gray>Pris: </gray><gold><cost></gold>",
-  "preset.preset_lore_component": "<prefix><gray>Komponent: </gray><gold><component></gold>",
+  "preset.preset_lore_component": "<gray>Component: </gray><gold><component></gold>",
   "generic.generic_other": "<gray>andre</gray>",
   "generic.generic_merged": "<gray>slått sammen</gray>",
   "generic.generic_unowned": "<gray>ueid</gray>",
