@@ -456,7 +456,7 @@
   "preset.preset_cannot_afford": "<prefix><red>Nie możesz sobie pozwolić na takie ustawienie.</red>",
   "preset.preset_invalid": "<prefix><red>Nie można wygenerować wzoru z tego ustawienia.</red>",
   "preset.preset_lore_cost": "<prefix><gray>Koszt: </gray><gold><cost></gold>",
-  "preset.preset_lore_component": "<prefix><gray>Component: </gray><gold><component></gold>",
+  "preset.preset_lore_component": "<gray>Component: </gray><gold><component></gold>",
   "generic.generic_other": "<gray>other</gray>",
   "generic.generic_merged": "<gray>merged</gray>",
   "generic.generic_unowned": "<gray>unowned</gray>",
