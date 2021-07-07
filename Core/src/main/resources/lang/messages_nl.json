@@ -456,7 +456,7 @@
   "preset.preset_cannot_afford": "<prefix><red>U kunt die voorinstelling niet betalen.</red>",
   "preset.preset_invalid": "<prefix><red>Kan geen patroon genereren vanuit die voorinstelling.</red>",
   "preset.preset_lore_cost": "<prefix><gray>Kosten: </gray><gold><cost></gold>",
-  "preset.preset_lore_component": "<prefix><gray>Component: </gray><gold><component></gold>",
+  "preset.preset_lore_component": "<gray>Component: </gray><gold><component></gold>",
   "generic.generic_other": "<gray>andere</gray>",
   "generic.generic_merged": "<gray>samengevoegd</gray>",
   "generic.generic_unowned": "<gray>leegstaand</gray>",
