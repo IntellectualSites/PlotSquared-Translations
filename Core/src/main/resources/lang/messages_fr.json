@@ -456,7 +456,7 @@
   "preset.preset_cannot_afford": "<prefix><red>Vous ne pouvez pas vous permettre ce préréglage.</red>",
   "preset.preset_invalid": "<prefix><red>Impossible de générer un modèle à partir de ce préréglage.</red>",
   "preset.preset_lore_cost": "<prefix><gray>Coût : </gray><gold><cost></gold>",
-  "preset.preset_lore_component": "<prefix><gray>Composante : </gray><gold><component></gold>",
+  "preset.preset_lore_component": "<gray>Component: </gray><gold><component></gold>",
   "generic.generic_other": "<gray>autre</gray>",
   "generic.generic_merged": "<gray>fusionné(e)</gray>",
   "generic.generic_unowned": "<gray>non-détenu(e)</gray>",
