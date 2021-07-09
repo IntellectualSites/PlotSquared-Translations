@@ -456,7 +456,7 @@
   "preset.preset_cannot_afford": "<prefix><red>Non puoi permetterti quel preset.</red>",
   "preset.preset_invalid": "<prefix><red>Impossibile generare un pattern da quel preset.</red>",
   "preset.preset_lore_cost": "<prefix><gray>Costo: </gray><gold><cost></gold>",
-  "preset.preset_lore_component": "<gray>Component: </gray><gold><component></gold>",
+  "preset.preset_lore_component": "<gray>Componente: </gray><gold><component></gold>",
   "generic.generic_other": "<gray>altro</gray>",
   "generic.generic_merged": "<gray>unito</gray>",
   "generic.generic_unowned": "<gray>senza padrone</gray>",
