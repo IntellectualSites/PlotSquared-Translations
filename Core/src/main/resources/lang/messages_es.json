@@ -55,7 +55,7 @@
   "border.border": "<prefix><gray>Estás fuera del borde del mapa actual.</gray>",
   "worldedit.worldedit_bypass": "<prefix><gray><italic>Para sobrepasar las restricciones usa </gray><dark_aqua><command></dark_aqua></italic>",
   "worldedit.worldedit_bypassed": "<prefix><gray>Actualmente sobrepasando restricciones de WorldEdit.</gray>",
-  "gamemode.gamemode_was_bypassed": "<prefix><gold>Has sobrepasado el gamemode (</gold><gray><gamemode></gray><gold>) <gold>configurado en la parcela </gold><gray><plot>.</gray>",
+  "gamemode.gamemode_was_bypassed": "<prefix><gold>Has omitido el modo de juego (</gold><gray><gamemode></gray><gold>) <gold>establecido para </gold><gray><plot>.</gray>",
   "height.height_limit": "<prefix><gold>Esta parecela tiene límites de construccion de altura: Altura mínima: </gold><gray><minHeight></gray><gold>, Altura máxima: </gold><gray><maxHeight></gray>",
   "notification.notify_enter": "<prefix><gray><player> entró a tu parcela (</gray><gold><plot></gold><gray>).</gray>",
   "notification.notify_leave": "<prefix><gray><player> dejó tu parecela (</gray><gold><plot></gold><gray>).</gray>",
