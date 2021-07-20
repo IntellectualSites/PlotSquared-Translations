@@ -1,10 +1,10 @@
 {
   "confirm.expired_confirm": "<prefix><red>Bestätigung ist abgelaufen, bitte für den Befehl erneut aus!</red>",
   "confirm.failed_confirm": "<prefix><red>Du hast keine ausstehenden Aktionen zu bestätigen!</red>",
-  "confirm.requires_confirm": "<prefix><gray>Bist du sicher, dass du folgenden Befehl ausführen möchtest: </gray><gold><command></gold><gray>?</gray>\n<red>Dieser Vorgang kann nicht rückgängig gemacht werden! Wenn du dir sicher bist: </red><gray><value></gray>\n<gray>Du hast noch <red><timeout></red><gray> Sekunden, um diesen Befehl auszuführen. ",
-  "move.move_success": "<prefix><dark_aqua>Plot wurde erfolgreich verschoben</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
+  "confirm.requires_confirm": "<prefix><gray>Möchtest Du diese Aktion ausführen<dark_gray>:</dark_gray> <gold><command></gold>? Gebe <gold><command></gold> ein, um zu bestätigen.</gray> ",
+  "move.move_success": "<prefix><gray>Plot versoben<dark_gray>:</dark_gray> <gold><origin></gold> \\\">\\\" <gold><target></gold></gray>",
   "move.move_merged": "<prefix><red>Zusammengeführte Plots können nicht verschoben werden. Bitte trenne die Plots bevor du den Umzug durchführst.</red>",
-  "move.copy_success": "<prefix><dark_aqua>Das Plot wurde erfolgreich kopiert</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
+  "move.copy_success": "<prefix><grey>Plot erfolgreich kopiert<dark_grey>:</dark_grey> <gold><origin></gold> \\\">\\\" <gold><target></gold></grey>",
   "move.requires_unowned": "<prefix><red>Der angegebene Standort ist bereits belegt.</red>",
   "debug.requires_unmerged": "<prefix><red>Plots können nicht zusammengeführt werden.</red>",
   "debug.debug_header": "<prefix> <gold>Debug Informationen</gold>\n",
