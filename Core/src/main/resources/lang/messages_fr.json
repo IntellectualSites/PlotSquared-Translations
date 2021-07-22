@@ -347,7 +347,7 @@
   "info.plot_info_unclaimed": "<prefix><gray>La parcelle <gold><plot></gold> n'a pas encore été réclamée.</gray>",
   "info.plot_info_header": "<dark_gray><strikethrough>--------- <reset><gold>INFOS </gold><dark_gray><strikethrough>---------</dark_gray><reset>",
   "info.plot_info_hidden": "<prefix><red>Vous ne pouvez pas visualiser les informations de cette parcelle.</red>",
-  "info.plot_info_format": "<header>\n<gold>ID : <gray><id></gray>\nCréation : <gray><creationdate></gray>\nZone : <gray><area></gray>\nAlia s: <gray><alias></gray>\nPropriétaire : <gray><owner></gray>\nBiome : <gray><biome></gray>\nConstruction ? : <gray><build></gray>\nNote : <gray><rating></gray>\nDernière visite : <gray><seen></gray>\nDe confiance ? : <gray><trusted></gray>\nMembres : <gray><members></gray>\nInterdits : <gray><denied></gray>\nParamètres : <gray><flags></gray>\nDescription : <gray><desc></gray></gold>\n<footer>",
+  "info.plot_info_format": "<header>\n<gold>ID : <gray><id></gray>\nCréation : <gray><creationdate></gray>\nZone : <gray><area></gray>\nAlias : <gray><alias></gray>\nPropriétaire : <gray><owner></gray>\nBiome : <gray><biome></gray>\nConstruction ? : <gray><build></gray>\nNote : <gray><rating></gray>\nDernière visite : <gray><seen></gray>\nDe confiance ? : <gray><trusted></gray>\nMembres : <gray><members></gray>\nInterdits : <gray><denied></gray>\nParamètres : <gray><flags></gray>\nDescription : <gray><desc></gray></gold>\n<footer>",
   "info.plot_info_footer": "<dark_gray><strikethrough>--------- <reset><gold>INFOS </gold><dark_gray><strikethrough>---------<reset>",
   "info.plot_info_trusted": "<gold>De confiance :</gold><gray><trusted></gray>",
   "info.plot_info_members": "<gold>Membres :</gold><gray><members></gray>",
