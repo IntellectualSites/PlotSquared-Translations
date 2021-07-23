@@ -575,6 +575,7 @@
   "flags.flag_description_redstone": "<gray>Définissez ce paramètre à `false` afin de désactiver la redstone au sein de la parcelle.</gray>",
   "flags.flag_description_server_plot": "<gray>Définissez ce paramètre à `true` afin que le propriétaire de la parcelle soit le serveur.</gray>",
   "flags.flag_description_snow_form": "<gray>Définissez ce paramètre à `true` afin d'autoriser la formation de neige au sein de la parcelle.</gray>",
+  "flags.flag_description_copper_oxide": "<gray>Set to `true` to allow copper to oxide within the plot.</gray>",
   "flags.flag_description_snow_melt": "<gray>Définissez ce paramètre à `true` afin d'autoriser la fonte de la neige au sein de la parcelle.</gray>",
   "flags.flag_description_soil_dry": "<gray>Définissez ce paramètre à `true` afin d'autoriser le séchage du sol au sein de la parcelle.</gray>",
   "flags.flag_description_coral_dry": "<gray>Définissez ce paramètre à `true` afin d'autoriser le séchage des coraux au sein de la parcelle.</gray>",
