@@ -575,6 +575,7 @@
   "flags.flag_description_redstone": "<gray>Sett til 'usann' for å deaktivere redstone på tomten.</gray>",
   "flags.flag_description_server_plot": "<gray>Sett til 'sann' for å endre tomten til en server-tomt- Dette er det samme som å sette Server som tomteeier.</gray>",
   "flags.flag_description_snow_form": "<gray>Sett til 'sann' for å tillate at snø dannes innenfor tomten.</gray>",
+  "flags.flag_description_copper_oxide": "<gray>Set to `true` to allow copper to oxide within the plot.</gray>",
   "flags.flag_description_snow_melt": "<gray>Sett til 'sann' for å tillate at snø smelter innenfor tomten.</gray>",
   "flags.flag_description_soil_dry": "<gray>Sett til 'sann' for å tillate at jord tørker innenfor tomten.</gray>",
   "flags.flag_description_coral_dry": "<gray>Sett til 'sann' for å tillate at korallblokker tørker innenfor tomten.</gray>",
