@@ -575,6 +575,7 @@
   "flags.flag_description_redstone": "<gray>Impostare a `false` per disabilitare la redstone nel lotto.</gray>",
   "flags.flag_description_server_plot": "<gray>Impostare a `true` per trasformare il lotto in un lotto del server. Ciò equivale a impostare il server stesso come proprietario del lotto.</gray>",
   "flags.flag_description_snow_form": "<gray>Impostare su `true` per consentire la formazione della neve all'interno del lotto.</gray>",
+  "flags.flag_description_copper_oxide": "<gray>Set to `true` to allow copper to oxide within the plot.</gray>",
   "flags.flag_description_snow_melt": "<gray>Impostare su `true` per permettere alla neve di sciogliersi all'interno del lotto.</gray>",
   "flags.flag_description_soil_dry": "<gray>Impostare su `true` per permettere che il terreno si asciughi all'interno del lotto.</gray>",
   "flags.flag_description_coral_dry": "<gray>Impostare a `true` per consentire ai blocchi di corallo di asciugarsi all'interno del lotto.</gray>",
