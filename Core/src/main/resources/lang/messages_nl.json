@@ -575,6 +575,7 @@
   "flags.flag_description_redstone": "<gray>Zet op `false` om redstone uit te schakelen in het plot.</gray>",
   "flags.flag_description_server_plot": "<gray>Zet op `true` om van het plot een server plot te maken. Dit is gelijk aan het instellen van de server als de eigenaar van het plot.</gray>",
   "flags.flag_description_snow_form": "<gray>Zet op `true` om toe te staan dat sneeuw vormt binnen het plot.</gray>",
+  "flags.flag_description_copper_oxide": "<gray>Set to `true` to allow copper to oxide within the plot.</gray>",
   "flags.flag_description_snow_melt": "<gray>Zet op `true` om toe te staan dat sneeuw smelt binnen het plot.</gray>",
   "flags.flag_description_soil_dry": "<gray>Zet op `true` om toe te staan dat grond kan uitdrogen binnen het plot.</gray>",
   "flags.flag_description_coral_dry": "<gray>Zet op `true` om toe te staan dat koraalblokken kunnen uitdrogen binnen het plot.</gray>",
