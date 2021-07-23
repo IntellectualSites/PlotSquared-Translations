@@ -575,6 +575,7 @@
   "flags.flag_description_redstone": "<gray>Pon `false` para deshabilitar el redstone en la parcela.</gray>",
   "flags.flag_description_server_plot": "<gray>Pon `true` para convertir esta parcela en una parcela de servidor. Esto es equivalente a poner al server como dueño de la parcela.</gray>",
   "flags.flag_description_snow_form": "<gray>Pon `true` para permitir que la nieve se forme dentro de la parcela.</gray>",
+  "flags.flag_description_copper_oxide": "<gray>Set to `true` to allow copper to oxide within the plot.</gray>",
   "flags.flag_description_snow_melt": "<gray>Pon `true` para permitir que la nieve se derrita dentro de la parcela.</gray>",
   "flags.flag_description_soil_dry": "<gray>Pon `true` para permitir que la tierra se seque dentro de la parcela.</gray>",
   "flags.flag_description_coral_dry": "<gray>Pon `true` para permitir que los corales se sequen dentro de la parcela.</gray>",
