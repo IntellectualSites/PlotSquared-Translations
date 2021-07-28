@@ -575,7 +575,7 @@
   "flags.flag_description_redstone": "<gray>Ustaw na `false` aby wyłączyć redstone na działce.</gray>",
   "flags.flag_description_server_plot": "<gray>Ustaw na `true` aby zamienić działkę w działkę serwerową. Jest to równoważne ustawieniu serwera jako właściciela wykresu.</gray>",
   "flags.flag_description_snow_form": "<gray>Ustaw na `true`, aby umożliwić tworzenie się śniegu w obrębie działki.</gray>",
-  "flags.flag_description_copper_oxide": "<gray>Set to `true` to allow copper to oxide within the plot.</gray>",
+  "flags.flag_description_copper_oxide": "<gray>Ustaw na `true`, aby umożliwić utlenianie miedzi w obrębie działki.</gray>",
   "flags.flag_description_snow_melt": "<gray>Ustaw na `true` aby umożliwić topnienie śniegu na działce.</gray>",
   "flags.flag_description_soil_dry": "<gray>Set to `true` to allow soil to dry within the plot.</gray>",
   "flags.flag_description_coral_dry": "<gray>Set to `true` to allow coral blocks to dry within the plot.</gray>",
