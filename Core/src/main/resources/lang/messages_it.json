@@ -112,7 +112,7 @@
   "tutorial.rate_this": "<prefix><gray>Vota questo lotto!</gray>",
   "tutorial.comment_this": "<prefix><gray>Lascia un commento su questo lotto: <plot>.</gray>",
   "economy.econ_disabled": "<prefix><red>L'economia non è abilitata.</red>",
-  "economy.vault_not_found": "<prefix><red>Vault non trovato. Non è possibile utilizzare le funzioni di economia simil-Vault.</red>",
+  "economy.vault_or_consumer_null": "<prefix><red>Economy isn't initialized. Make sure Vault and an economy service plugin are installed.</red>",
   "economy.cannot_afford_plot": "<prefix><red>Non puoi permetterti di acquistare questo lotto. Costa <gold><money></gold>. Tu hai <gold><balance></gold>.</red>",
   "economy.not_for_sale": "<prefix><red>Questo lotto non è in vendita.</red>",
   "economy.cannot_buy_own": "<prefix><red>Non puoi acquistare il tuo lotto.</red>",
