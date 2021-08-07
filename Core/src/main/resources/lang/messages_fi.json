@@ -112,7 +112,7 @@
   "tutorial.rate_this": "<prefix><gray>Arvioi tämä plotti!</gray>",
   "tutorial.comment_this": "<prefix><gray>Jätä palautetta tähän plottiin: <plot>.</gray>",
   "economy.econ_disabled": "<prefix><red>Talous ei ole käytössä.</red>",
-  "economy.vault_not_found": "<prefix><red>Vault lisäosaa ei ole asennettu. Vaultin talouspalveluita ei voida tarjota.</red>",
+  "economy.vault_or_consumer_null": "<prefix><red>Economy isn't initialized. Make sure Vault and an economy service plugin are installed.</red>",
   "economy.cannot_afford_plot": "<prefix><red>Sinulla ei ole varaa ostaa tätä plottia. Se maksaa <gold><money></gold>. Sinulla on <gold><balance></gold>.</red>",
   "economy.not_for_sale": "<prefix><red>Tämä plotti ei ole myynnissä.</red>",
   "economy.cannot_buy_own": "<prefix><red>Et voi ostaa omaa plottiasi.</red>",
