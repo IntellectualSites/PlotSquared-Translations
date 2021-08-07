@@ -112,7 +112,7 @@
   "tutorial.rate_this": "<prefix><gray>Оцените этот участок!</gray>",
   "tutorial.comment_this": "<prefix><gray>Оставить отзыв на этом участке: <plot>.</gray>",
   "economy.econ_disabled": "<prefix><red>Экономика не включена.</red>",
-  "economy.vault_not_found": "<prefix><red>Vault не установлен. Экономическая служба типа Vault не может быть предоставлена.</red>",
+  "economy.vault_or_consumer_null": "<prefix><red>Economy isn't initialized. Make sure Vault and an economy service plugin are installed.</red>",
   "economy.cannot_afford_plot": "<prefix><red>Вы не можете позволить себе купить этот участок. Это стоит <gold><money></gold>. У вас <gold><balance></gold>.</red>",
   "economy.not_for_sale": "<prefix><red>Этот участок не продается.</red>",
   "economy.cannot_buy_own": "<prefix><red>Вы не можете купить свой собственный участок.</red>",
