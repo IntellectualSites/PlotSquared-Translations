@@ -112,7 +112,7 @@
   "tutorial.rate_this": "<prefix><gray>Oceń tę działkę!</gray>",
   "tutorial.comment_this": "<prefix><gray>Pozostaw opinię o tej działce: <plot>.</gray>",
   "economy.econ_disabled": "<prefix><red>Ekonomia nie jest włączona.</red>",
-  "economy.vault_not_found": "<prefix><red>Sejf nie jest zainstalowany. Żadna usługa ekonomiczna podobna do sejfu nie jest dostępna.</red>",
+  "economy.vault_or_consumer_null": "<prefix><red>Economy isn't initialized. Make sure Vault and an economy service plugin are installed.</red>",
   "economy.cannot_afford_plot": "<prefix><red>Nie możesz sobie pozwolić na zakup tej działki. To kosztuje <gold><money></gold>. Masz <gold><balance></gold>.</red>",
   "economy.not_for_sale": "<prefix><red>Ta działka nie jest na sprzedaż.</red>",
   "economy.cannot_buy_own": "<prefix><red>Nie możesz kupić swojej własnej działki.</red>",
