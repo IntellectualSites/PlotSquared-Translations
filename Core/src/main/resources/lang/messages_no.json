@@ -112,7 +112,7 @@
   "tutorial.rate_this": "<prefix><gray>Ranger denne tomten!</gray>",
   "tutorial.comment_this": "<prefix><gray>Legg igjen en tilbakemelding på denne tomten: <plot>.</gray>",
   "economy.econ_disabled": "<prefix><red>Økonomi er ikke aktivert.</red>",
-  "economy.vault_not_found": "<prefix><red>Vault er ikke installert. Ingen Vault-liknende økonomiske neste kan bli tilbudt.</red>",
+  "economy.vault_or_consumer_null": "<prefix><red>Economy isn't initialized. Make sure Vault and an economy service plugin are installed.</red>",
   "economy.cannot_afford_plot": "<prefix><red>Du har ikke råd til å kjøpe denne tomten. Den koster <gold><money></gold>. Du har <gold><balance></gold>.</red>",
   "economy.not_for_sale": "<prefix><red>Denne tomten er ikke for salg.</red>",
   "economy.cannot_buy_own": "<prefix><red>Du kan ikke kjøpe din egen tomt.</red>",
