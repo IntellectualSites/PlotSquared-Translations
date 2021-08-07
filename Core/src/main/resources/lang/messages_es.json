@@ -112,7 +112,7 @@
   "tutorial.rate_this": "<prefix><gray>Califica esta parcela!</gray>",
   "tutorial.comment_this": "<prefix><gray>Deja algun comentario sobre esta parcela: <plot>.</gray>",
   "economy.econ_disabled": "<prefix><red>Economía no habilitada.</red>",
-  "economy.vault_not_found": "<prefix><red>Vault no está instalado. No habrá ningun servicio de economía relacionado con Vault.</red>",
+  "economy.vault_or_consumer_null": "<prefix><red>Economy isn't initialized. Make sure Vault and an economy service plugin are installed.</red>",
   "economy.cannot_afford_plot": "<prefix><red>No te alcanza para comprar esta parcela. Cuesta <gold><money></gold>. Tienes <gold><balance></gold>.</red>",
   "economy.not_for_sale": "<prefix><red>Esta parcela no está en venta.</red>",
   "economy.cannot_buy_own": "<prefix><red>No puedes comprar tu propia parcela.</red>",
