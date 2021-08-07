@@ -112,7 +112,7 @@
   "tutorial.rate_this": "<prefix><gray>Merci de noter cette parcelle :)</gray>",
   "tutorial.comment_this": "<prefix><gray>Merci de laisser vos retours sur la parcelle : <plot>.</gray>",
   "economy.econ_disabled": "<prefix><red>L'économie n'est pas activitée.</red>",
-  "economy.vault_not_found": "<prefix><red>Vault n'est pas installé. Aucun service d'économie semblable ne peut être fourni.</red>",
+  "economy.vault_or_consumer_null": "<prefix><red>L'économie n'est pas initialisée. Assurez-vous que Vault et un plugin de service d'économie soient installés.</red>",
   "economy.cannot_afford_plot": "<prefix><red>Vous ne pouvez pas vous permettre d'acheter cette parcelle. Elle coûte <gold><money></gold>. Vous possédez <gold><balance></gold>.</red>",
   "economy.not_for_sale": "<prefix><red>Cette parcelle n'est pas à vendre.</red>",
   "economy.cannot_buy_own": "<prefix><red>Vous ne pouvez pas acheter votre propre parcelle.</red>",
