@@ -137,7 +137,7 @@
   "setup.setup_wrong_generator": "<prefix><red>Der genannte Generator ist kein BukkitPlotGenerator</red><dark_gray> - </dark_gray><dark_green>Du musst vielleicht das andere Plugin konfigurieren.</dark_green>",
   "setup.setup_world_name_format": "<prefix><red>Keine [a-z0-9_.-] Zeichen im Weltnamen:</red><gold> ",
   "setup.setup_world_apply_plotsquared": "<prefix><red>Die Welt, die du angegeben haben, existiert bereits. Nach dem Neustart wird das neue Gelände </red><gold>PlotSquared</gold><red>verwendet, jedoch musst du die Welt zurücksetzen, damit sie korrekt generiert werden kann!</red>",
-  "setup.setup_partial_area": "<prefix><gold>Welches Gelände möchtest du auf Grundstücken?</gold>\n<dark_gray> - </dark_gray><dark_green>ROAD</dark_green><dark_gray> - </dark_gray><gray>Terrain getrennt durch Strassen</gray>\n<dark_gray> - </dark_gray><dark_green>ALLE</dark_green><dark_gray> - </dark_gray><gray>Komplett Vanillegeneration</gray>",
+  "setup.setup_partial_area": "<prefix><gold>Welches Gelände möchtest du auf deinen Plots?</gold>\n<dark_gray> - </dark_gray><dark_green>ROAD</dark_green><dark_gray> - </dark_gray><gray>Terrain getrennt durch Straßen</gray>\n<dark_gray> - </dark_gray><dark_green>ALLE</dark_green><dark_gray> - </dark_gray><gray>Normale vanilla Welt</gray>",
   "setup.setup_partial_area_error": "<prefix><red>Du musst ein Terrain auswählen!</red>",
   "setup.setup_area_name": "<prefix><gold>Wie möchtest du diesen Bereich nennen?</gold>",
   "setup.setup_area_non_alphanumerical": "<prefix><red>Die Bereich-ID muss alphanumerisch sein!</red>",
