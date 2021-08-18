@@ -585,7 +585,7 @@
   "flags.flag_description_tamed_interact": "<gray>Pon `true` para permitir a los visitantes interactuar con animales domados en la parcela.</gray>",
   "flags.flag_description_time": "<gray>Pon el tiempo de la parcela en un valor fijo.</gray>",
   "flags.flag_description_titles": "<gray>Pon `false` para deshabilitar el título de la parcela. Puedes usar: `none` (para heredar de la configuración global), `true`, o `false`</gray>",
-  "flags.flag_description_title": "<gray>Set the pop-up title's title and subtitle. Format: /plot flag set title \"A title\" \"The subtitle\"</gray>",
+  "flags.flag_description_title": "<gray>Establece el título y subtítulo del título emergente. Formato: /plot flag set title \"A title\" \"El subtítulo\"</gray>",
   "flags.flag_description_use": "<gray>Define una lista de materiales con los que los jugadores podrán interactuar dentro de la parcela.</gray>",
   "flags.flag_description_vehicle_break": "<gray>Pon `true` para permitir a los visitantes romper vehículos en la parcela.</gray>",
   "flags.flag_description_vehicle_cap": "<gray>Pon un valor entero para limitar la cantidad de vehículos en la parcela.</gray>",
