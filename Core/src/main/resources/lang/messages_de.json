@@ -585,7 +585,7 @@
   "flags.flag_description_tamed_interact": "<gray>Auf `true` setzen, um Gästen die Interaktion mit gezähmten Tieren auf dem Grundstück zu ermöglichen.</gray>",
   "flags.flag_description_time": "<gray>Setze die Zeit auf dem Grundstück auf einen festen Wert.</gray>",
   "flags.flag_description_titles": "<gray>Auf `false` gesetzt, um Grundstückstitel zu deaktivieren. Kann gesetzt werden auf: `none` (um von den Welt-Einstellungen übernehmen zu werden), `true` oder `false`</gray>",
-  "flags.flag_description_title": "<gray>Set the pop-up title's title and subtitle. Format: /plot flag set title \"A title\" \"The subtitle\"</gray>",
+  "flags.flag_description_title": "<gray>Titel und Untertitel des Popup-Titels festlegen. Format: /plot Flagge setzen den Titel \"Ein Titel\" \"Der Untertitel\"</gray>",
   "flags.flag_description_use": "<gray>Definiere eine Liste von Materialien, mit denen die Spieler auf dem Grundstück interagieren können sollen.</gray>",
   "flags.flag_description_vehicle_break": "<gray>Auf `true` setzen, damit Gäste Loren auf dem Grundstück zerstören können.</gray>",
   "flags.flag_description_vehicle_cap": "<gray>Auf einen Ganzzahlwert setzen, um die Anzahl der Loren auf dem Grundstück zu begrenzen.</gray>",
