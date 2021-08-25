@@ -612,7 +612,7 @@
   "flags.flag_error_invalid_block": "El valor indicado no es un bloque o categoría de bloques válido.",
   "flags.flag_error_double": "El valor del flag debe ser un número decimal válido.",
   "flags.flag_error_music": "El valor del flag debe ser un ID de disco musical válido.",
-  "flags.flag_error_title": "Flag value must be in the format </red><grey>\"A title\" \"The subtitle\"</grey><red>.",
+  "flags.flag_error_title": "Los valores de la Flag deben estar de la siguiente manera: </red><grey>\"Titulo\" \"Subtitulo\"</grey><red>.",
   "flags.area_flags": "<prefix><gray>Flags del área: </gray><dark_aqua><flags></dark_aqua>",
   "flags.road_flags": "<prefix><gray>Flags del camino: </gray><dark_aqua><flags></dark_aqua>",
   "commands.description.add": "<gray>Permite a un jugador construir en una parcela mientras el dueño de la parcela esté online.</gray>",
