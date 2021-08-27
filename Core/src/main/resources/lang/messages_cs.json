@@ -554,7 +554,7 @@
   "flags.flag_description_instabreak": "<gray>Nastavte na \"true\", aby bloky byly okamžitě zničeny v režimu survival.</gray>",
   "flags.flag_description_invincible": "<gray>Nastavte na \"true\", abyste zabránili hráčům v poškození uvnitř plochy.</gray>",
   "flags.flag_description_item_drop": "<gray>Nastavte na `false` aby se zabránilo vyhazování itemů uvnitř plochy.</gray>",
-  "flags.flag_description_kelp_grow": "<gray>Set to `false` to prevent kelp from growing in the plot.</gray>",
+  "flags.flag_description_kelp_grow": "<gray>Nastavte na `false` aby se zabránilo růstu kelpu na pozemku.</gray>",
   "flags.flag_description_liquid_flow": "<gray>Set to `false` to disable liquids from flowing within the plot.</gray>",
   "flags.flag_description_misc_break": "<gray>Set to `true` to allow guests to break miscellaneous items.</gray>",
   "flags.flag_description_misc_cap": "<gray>Set to an integer value to limit the amount of miscellaneous entities on the plot.</gray>",
