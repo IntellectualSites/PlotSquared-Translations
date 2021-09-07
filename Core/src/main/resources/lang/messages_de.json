@@ -592,7 +592,7 @@
   "flags.flag_description_vehicle_place": "<gray>Auf `true` setzen, um Gästen das Platzieren von Fahrzeugen auf dem Grundstück zu ermöglichen.</gray>",
   "flags.flag_description_vehicle_use": "<gray>Auf `true` setzen, um Gästen das Nutzen von Fahrzeugen auf dem Grundstück zu ermöglichen.</gray>",
   "flags.flag_description_villager_interact": "<gray>Auf `true` setzen, um Gästen das Interagieren mit Dorfbewohnern auf dem Grundstück zu ermöglichen.</gray>",
-  "flags.flag_description_vine_grow": "<gray>Auf `false` setzen, um den Wachstum von Ranken auf dem Grundstück zu verhindern.</gray>",
+  "flags.flag_description_vine_grow": "<gray>Auf `false` setzen, um das Wachstum von Ranken auf dem Grundstück zu verhindern.</gray>",
   "flags.flag_description_deny_teleport": "<gray>Teleport einer bestimmten Gruppe auf das Grundstück verhindern. Verfügbare Gruppen: members, nonmembers, trusted, nontrusted, nonowners</gray>",
   "flags.flag_description_gamemode": "<gray>Spielmodus auf dem Grundstück festlegen.</gray>",
   "flags.flag_description_guest_gamemode": "<gray>Spielmodus auf dem Grundstück für Gäste festlegen.</gray>",
