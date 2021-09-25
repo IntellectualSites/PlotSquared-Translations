@@ -22,7 +22,7 @@
   "web.plot_merged": "<prefix><red>Este plot está migrado y por lo tanto no se puede descargar</red>",
   "web.generating_link_failed": "<prefix><red>Error al generar link de descarga para la parcela <plot>!</red>",
   "web.generation_link_success": "<prefix><gold>Descarga: <gray><click:open_url:<download>><download></click></gray> \n Eliminar: <gray><click:open_url:<delete>><delete></click></gray>\n<red>Atención: Abrir el link de elminación borrará el archivo instantáneamente.</red></gold>",
-  "web.generation_link_success_legacy_world": "<prefix><gold>Download: <gray><click:open_url:<url>><url></click></gray>",
+  "web.generation_link_success_legacy_world": "<prefix><gold>Subido debug completo a: <gray><click:open_url:<url><url>></click></gray>",
   "web.save_failed": "<prefix><red>Error al guardar.</red>",
   "web.load_null": "<prefix><gray>Por favor usa </gray><dark_aqua><command> </dark_aqua><gray>para obtener una lista de esquemáticas.</gray>",
   "web.load_failed": "<prefix><red>Error al cargar esquemática.</red>",
