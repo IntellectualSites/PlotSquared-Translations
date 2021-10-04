@@ -22,7 +22,7 @@
   "web.plot_merged": "<prefix><red>Ta działka jest scalona, więc nie można jej pobrać</red>",
   "web.generating_link_failed": "<prefix><red>Nie udało się wygenerować linku dla działki<plot>!</red>",
   "web.generation_link_success": "<prefix><gold>Pobierz: <gray><click:open_url:<download>><download></click></gray> \n Usunięcie: <gray><click:open_url:<delete>><delete></click></gray>\n<red>Uwaga: Otwarcie linku do usunięcia spowoduje natychmiastowe usunięcie pliku.</red></gold>",
-  "web.generation_link_success_legacy_world": "<prefix><gold>Download: <gray><click:open_url:<url>><url></click></gray>",
+  "web.generation_link_success_legacy_world": "<prefix><gold>Przesłano pełne debugowanie do: <gray><click:open_url:<url><url>></click></gray>",
   "web.save_failed": "<prefix><red>Zapisywanie nie powiodło się.</red>",
   "web.load_null": "<prefix><gray>Użyj </gray><dark_aqua><command> </dark_aqua><gray>aby uzyskać listę schematów.</gray>",
   "web.load_failed": "<prefix><red>Nie udało się wczytać schematu.</red>",
