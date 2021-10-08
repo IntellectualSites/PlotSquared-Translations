@@ -22,7 +22,7 @@
   "web.plot_merged": "<prefix><red>Este lote está mesclado e, portanto, não pode ser baixado</red>",
   "web.generating_link_failed": "<prefix><red>Falha ao gerar o link de download do plot <plot></red>",
   "web.generation_link_success": "<prefix><gold>Download: <gray><click:open_url:<download>><download></click></gray> \n Deleção: <gray><click:open_url:<delete>><delete></click></gray>\n<red>Atenção: Abrir o link de exclusão excluirá o arquivo imediatamente.</red></gold>",
-  "web.generation_link_success_legacy_world": "<prefix><gold>Download: <gray><click:open_url:<url>><url></click></gray>",
+  "web.generation_link_success_legacy_world": "<prefix><gold>Baixar: <gray><click:open_url:<url>><url></click></gray>",
   "web.save_failed": "<prefix><red>Falha ao salvar.</red>",
   "web.load_null": "<prefix><gray>Por favor, use </gray><dark_aqua><command> </dark_aqua><gray>para obter uma lista de diagramas.</gray>",
   "web.load_failed": "<prefix><red>Falha ao carregar schematic.</red>",
