@@ -706,5 +706,5 @@
   "plotjukebox.jukebox_header": "Plot Jukebox",
   "plotjukebox.click_to_play": "<green>Click to play!</green>",
   "plotjukebox.cancel_music": "<gold>Cancel music</gold>",
-  "plotjukebox.reset_music": "<red>Click to remove the music!</red>"
+  "plotjukebox.reset_music": "<red>点击删除音乐！</red>"
 }
