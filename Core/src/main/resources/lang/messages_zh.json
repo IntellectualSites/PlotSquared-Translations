@@ -484,7 +484,7 @@
   "flag.flag_key": "<gray>密钥: <key></gray>",
   "flag.flag_desc": "<gray>描述: <value></gray>",
   "flag.not_valid_flag": "<red>这不是一个有效的标志.</red>",
-  "flag.not_valid_flag_suggested": "<prefix><gray>That is not a valid flag. Did you mean: </gray><gold><value></gold>",
+  "flag.not_valid_flag_suggested": "<prefix><gray>这不是一个有效的标志。你指的是 </gray><gold><value></gold>",
   "flag.not_valid_value": "<prefix><red>Flag values must be alphanumerical.</red>",
   "flag.no_flags": "Global flags: None",
   "flag.flag_not_removed": "<prefix><red>The flag could not be removed.</red>",
