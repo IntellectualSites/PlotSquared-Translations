@@ -486,7 +486,7 @@
   "flag.not_valid_flag": "<red>这不是一个有效的标志.</red>",
   "flag.not_valid_flag_suggested": "<prefix><gray>这不是一个有效的标志。你指的是 </gray><gold><value></gold>",
   "flag.not_valid_value": "<prefix><red>片区 ID 必须是字母或数字!</red>",
-  "flag.no_flags": "Global flags: None",
+  "flag.no_flags": "全局标志：无",
   "flag.flag_not_removed": "<prefix><red>The flag could not be removed.</red>",
   "flag.flag_not_added": "<prefix><red>The flag could not be added.</red>",
   "flag.flag_removed": "<prefix><dark_aqua>The flag </dark_aqua><gold><flag></gold><dark_aqua> with the value </dark_aqua><gold><value></gold><dark_aqua> has been removed successfully.</dark_aqua>",
