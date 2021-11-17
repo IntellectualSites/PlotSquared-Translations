@@ -615,7 +615,7 @@
   "flags.flag_error_title": "Il valore della flag deve essere nel formato </red><grey>\"Titolo\" \"Sottotitolo\"</grey><red>.",
   "flags.area_flags": "<prefix><gray>Flag dell'Area: </gray><dark_aqua><flags></dark_aqua>",
   "flags.road_flags": "<prefix><gray>Flag della Strada: </gray><dark_aqua><flags></dark_aqua>",
-  "flags.greeting_flag_format": "<prefix><gold>[<world>;<plot_id>]:</gold> <greeting>",
+  "flags.greeting_flag_format": "<prefix><gold>- <world><plot_id>#</gold> <greeting>",
   "flags.farewell_flag_format": "<prefix><gold>[<world>;<plot_id>]:</gold> <farewell>",
   "commands.description.add": "<gray>Permetti a un utente di costruire in un lotto mentre il proprietario del lotto è online.</gray>",
   "commands.description.alias": "<gray>Imposta il soprannome del lotto.</gray>",
