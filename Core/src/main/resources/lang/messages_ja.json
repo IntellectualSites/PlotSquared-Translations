@@ -61,7 +61,7 @@
   "notification.notify_enter": "<prefix><gray><player> あなたの区画 (</gray><gold><plot></gold><gray>) に入りました。</gray>",
   "notification.notify_leave": "<prefix><gray><player> あなたの区画 (</gray><gold><plot></gold><gray>) から出ました。</gray>",
   "swap.swap_overlap": "<prefix><red>提案された領域は重複することはできない</red>",
-  "swap.swap_success": "<prefix><dark_aqua>Successfully swapped plots</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
+  "swap.swap_success": "<prefix><dark_aqua>区画の交換に成功しました</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
   "swap.swap_merged": "<prefix><red>結合された区画は交換できない場合があります。スワップを実行する前に区画の結合を解除してください。</red>",
   "swap.progress_region1_copy": "<prefix><gray>現在の領域 1 のコピー進行状況: </gray><gold><progress></gold><gray>%</gray>",
   "swap.progress_region2_copy": "<prefix><gray>現在の領域 2 のコピー進行状況: </gray><gold><progress></gold><gray>%</gray>",
