@@ -173,7 +173,7 @@
   "schematics.schematic_paste_failed": "<prefix><red>Falha ao carregar schematic.</red>",
   "schematics.schematic_paste_success": "<prefix><dark_aqua>O esquema foi colado com sucesso.</dark_aqua>",
   "schematics.schematic_list": "<prefix><dark_aqua>Diagramas Salvos: </dark_aqua><gold><list></gold>",
-  "schematics.mca_file_size": "<prefix><gold>Note: The `.mca` files are 512x512.</gold>",
+  "schematics.mca_file_size": "<prefix><gold>Nota: Os arquivos `.mca` são 512x512.</gold>",
   "schematics.schematic_exportall_started": "<prefix><gold>Starting export...</gold>",
   "schematics.schematic_exportall_world_args": "<prefix><gray>Need world argument<gray>",
   "schematics.schematic_exportall_finished": "<prefix><gold>Finished mass export.</gold>",
