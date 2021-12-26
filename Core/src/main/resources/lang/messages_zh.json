@@ -489,7 +489,7 @@
   "flag.no_flags": "全局标志：无",
   "flag.flag_not_removed": "<prefix><red>The flag could not be removed.</red>",
   "flag.flag_not_added": "<prefix><red>无法添加标志。</red>",
-  "flag.flag_removed": "<prefix><dark_aqua>The flag </dark_aqua><gold><flag></gold><dark_aqua> with the value </dark_aqua><gold><value></gold><dark_aqua> has been removed successfully.</dark_aqua>",
+  "flag.flag_removed": "<dark_aqua>此标志</dark_aqua><gold><flag></gold><dark_aqua>的值</dark_aqua><gold><value></gold><dark_aqua>已成功移除</dark_aqua>",
   "flag.flag_partially_removed": "<prefix><dark_aqua>Successfully removed flag value(s).</dark_aqua>",
   "flag.flag_added": "<prefix><dark_aqua>The flag</dark_aqua><gold> <flag></gold><dark_aqua> with the value </dark_aqua><gold><value></gold><dark_aqua> has been added successfully.</dark_aqua>",
   "flag.flag_list_see_info": "<prefix><gray>Click to view information about the flag.</gray>",
