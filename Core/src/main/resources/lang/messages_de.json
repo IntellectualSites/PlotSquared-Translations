@@ -22,7 +22,7 @@
   "web.plot_merged": "<prefix><red>Dieses Plot ist mit einem anderen Plot verbunden und kann deshalb nicht heruntergeladen werden.</red>",
   "web.generating_link_failed": "<prefix><red>Fehler beim Erzeugen des Links zum Herunterladen des Plots <plot>!</red>",
   "web.generation_link_success": "<prefix><gold>Herunterladen: <gray><click:open_url:<download>><download></click></gray>\nLöschen: <gray><click:open_url:<delete>><delete></click></gray>\n<red>Achtung: Durch Öffnen des Löschlinks wird die Datei sofort gelöscht.</red></gold>",
-  "web.generation_link_success_legacy_world": "<prefix><gold>Download: <gray><click:open_url:<url>><url></click></gray></gold>",
+  "web.generation_link_success_legacy_world": "<prefix><gold>Herunterladen: <gray><click:open_url:<url>><url></click></gray></gold>",
   "web.save_failed": "<prefix><red>Speichern fehlgeschlagen.</red>",
   "web.load_null": "<prefix><gray>Bitte verwende </gray><dark_aqua><command> </dark_aqua><gray>, um eine Liste der nutzbaren Schematics zu erhalten.</gray>",
   "web.load_failed": "<prefix><red>Laden der Schematic fehlgeschlagen.</red>",
