@@ -1,7 +1,7 @@
 {
-  "confirm.expired_confirm": "<prefix><red>Confirmation has expired, please run the command again!</red>",
-  "confirm.failed_confirm": "<prefix><red>You have no pending actions to confirm!</red>",
-  "confirm.requires_confirm": "<prefix><gray>Are you sure you wish to execute: </gray><gold><command></gold><gray>?</gray>\n<red>This cannot be undone! If you are sure: </red><gray><value></gray>\n<gray>The request times out in <red><timeout></red><gray> seconds. ",
+  "confirm.expired_confirm": "期限切れだよ！確認してもう一度コマンドを入れてね！",
+  "confirm.failed_confirm": "正しく確認する保留中のアクションはないよ！",
+  "confirm.requires_confirm": "<prefix><gray>本当に実行しますか: </gray><gold><command></gold><gray>?</gray>\n<red>この操作は元に戻せません!実行するならばこれを入力してください。: </red><gray><value></gray>\n<red><timeout></red><gray>秒でこのリクエストはタイムアウトします。</gray> ",
   "move.move_success": "<prefix><dark_aqua>Successfully moved the plot</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
   "move.move_merged": "<prefix><red>Merged plots may not be moved. Please unmerge the plot before performing the move.</red>",
   "move.copy_success": "<prefix><dark_aqua>Successfully copied plots</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
