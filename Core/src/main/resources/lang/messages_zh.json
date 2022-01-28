@@ -519,7 +519,7 @@
   "flags.flag_category_intervals": "間隔のある旗",
   "flags.flag_category_integer_list": "旗の整数のリスト",
   "flags.flag_category_gamemode": "<gray>游戏模式标志</gray>",
-  "flags.flag_category_enum": "<gray>Generic Enum Flags</gray>",
+  "flags.flag_category_enum": "<gray> 通用枚举标志</gray>",
   "flags.flag_category_decimal": "<gray>小数标志<gray>",
   "flags.flag_category_boolean": "<gray>Boolean Flags</gray>",
   "flags.flag_category_fly": "<gray>飞行标志</gray>",
