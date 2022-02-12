@@ -60,7 +60,7 @@
   "worldedit.worldedit_bypassed": "<prefix><gray>目前处于绕过 WorldEdit 限制的状态中</gray>",
   "gamemode.gamemode_was_bypassed": "<prefix><gold>你目前绕过了为地皮 <gray><plot></gray> 设定的游戏模式的限制(</gold><gray><gamemode></gray><gold>) <gold>设置为 </gold><gray></gray>",
   "height.height_limit": "<prefix><gold>此地皮有建筑高度限制: 最低高度: </gold><gray><minHeight></gray><gold>, 最大高度: </gold><gray><maxHeight></gray>",
-  "notification.notify_enter": "<prefix><gray><player> entered your plot (</gray><gold><area>;<plot></gold><gray>).</gray>",
+  "notification.notify_enter": "<prefix><gray><player> 进入了你的地皮(</gray><gold><plot></gold><gray>)</gray>",
   "notification.notify_leave": "<prefix><gray><player> left your plot (</gray><gold><area>;<plot></gold><gray>).</gray>",
   "swap.swap_overlap": "<prefix><red>你所请求的片区不允许重叠</red>",
   "swap.swap_success": "<prefix><dark_aqua>成功交换地皮的位置至</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
