@@ -53,7 +53,7 @@
   "cluster.cluster_regenerated": "<prefix><dark_aqua>Úspěšně spuštěna regenerace seskupení.</dark_aqua>",
   "cluster.cluster_teleporting": "<prefix><dark_aqua>Teleportuji...</dark_aqua>",
   "cluster.cluster_info": "<prefix><gold>Aktuální seskupení: </gold><gray><id></gray>\n<gold>Název: </gold><gray><name></gray>\n<gold>Majitel: </gold><gray><owner></gray>\n<gold>Velikost: </gold><gray><size></gray>\n<gold>Práva: </gold><gray><rights></gray>",
-  "border.denied": "<prefix><red>You are outside the current map border.</red>",
+  "border.denied": "<prefix><red>Jste mimo aktuální okraj mapy.</red>",
   "border.bypass.exited": "<prefix><red>You have bypassed the current map border area.</red>",
   "border.bypass.entered": "<prefix><gray>You have re-entered the current map border area.</gray>",
   "worldedit.worldedit_bypass": "<prefix><gray><italic>Pro obejití vašich omezení použijte </gray><dark_aqua><command></dark_aqua></italic>",
