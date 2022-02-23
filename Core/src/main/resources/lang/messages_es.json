@@ -54,7 +54,7 @@
   "cluster.cluster_teleporting": "<prefix><dark_aqua>Teletransportando...</dark_aqua>",
   "cluster.cluster_info": "<prefix><gold>Cluster actual: </gold><gray><id></gray>\n<gold>Nombre: </gold><gray><name></gray>\n<gold>Dueño: </gold><gray><owner></gray>\n<gold>Tamaño: </gold><gray><size></gray>\n<gold>Permisos: </gold><gray><rights></gray>",
   "border.denied": "<prefix><red>Estás fuera del borde del mapa actual.</red>",
-  "border.bypass.exited": "<prefix><red>You have bypassed the current map border area.</red>",
+  "border.bypass.exited": "<prefix><red>Estás fuera del borde del mapa actual.</red>",
   "border.bypass.entered": "<prefix><gray>You have re-entered the current map border area.</gray>",
   "worldedit.worldedit_bypass": "<prefix><gray><italic>Para sobrepasar las restricciones usa </gray><dark_aqua><command></dark_aqua></italic>",
   "worldedit.worldedit_bypassed": "<prefix><gray>Actualmente sobrepasando restricciones de WorldEdit.</gray>",
