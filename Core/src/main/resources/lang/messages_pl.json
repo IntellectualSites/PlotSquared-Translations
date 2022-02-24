@@ -60,7 +60,7 @@
   "worldedit.worldedit_bypassed": "<prefix><gray>Obecnie pomija ograniczenie WorldEdit.</gray>",
   "gamemode.gamemode_was_bypassed": "<prefix><gold>Pominięto tryb gry (</gold><gray><gamemode></gray><gold>) <gold>ustawiony na </gold><gray><plot>.</gray>",
   "height.height_limit": "<prefix><gold>Ten obszar powierzchni ma granice wysokości: wysokość minimalna: </gold><gray><minHeight></gray><gold>, wysokość maksymalna: </gold><gray><maxHeight></gray>",
-  "notification.notify_enter": "<prefix><gray><player> entered your plot (</gray><gold><area>;<plot></gold><gray>).</gray>",
+  "notification.notify_enter": "<prefix><gray><player> Wszedł na twoją działkę (</gray><gold><area>;<plot></gold><gray>).</gray>",
   "notification.notify_leave": "<prefix><gray><player> left your plot (</gray><gold><area>;<plot></gold><gray>).</gray>",
   "swap.swap_overlap": "<prefix><red>Proponowane obszary nie mogą się nakładać.</red>",
   "swap.swap_success": "<prefix><dark_aqua>Pomyślnie przeniesiono działkę</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
