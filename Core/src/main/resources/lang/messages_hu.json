@@ -22,7 +22,7 @@
   "web.plot_merged": "<prefix><red>Ez egy összevont plot, ezért nem lehet letölteni.</red>",
   "web.generating_link_failed": "<prefix><red>A plot letöltési linkjének generálása nem sikerült.<plot>!</red>",
   "web.generation_link_success": "<prefix><gold>Letöltés: <gray><click:open_url:<download>><download></click></gray> \n Törlés: <gray><click:open_url:<delete>><delete></click></gray>\n<red>Figyelem: A törlési link megnyitása azonnal törli a fájlt.</red></gold>",
-  "web.generation_link_success_legacy_world": "<prefix><gold>Download: <gray><click:open_url:<url>><url></click></gray></gold>",
+  "web.generation_link_success_legacy_world": "<prefix><gold>Letöltés: <gray><click:open_url:<url><url></click></gray></gold>",
   "web.save_failed": "<prefix><red>A mentés nem sikerült.</red>",
   "web.load_null": "<prefix><gray>Használja a(z) </gray><dark_aqua><command> </dark_aqua><gray>parancsot a sémák listájának letöltéséhez.</gray>",
   "web.load_failed": "<prefix><red>Nem sikerült a séma letöltése.</red>",
