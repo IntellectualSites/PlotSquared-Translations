@@ -60,7 +60,7 @@
   "worldedit.worldedit_bypassed": "<prefix><gray>Actualmente sobrepasando restricciones de WorldEdit.</gray>",
   "gamemode.gamemode_was_bypassed": "<prefix><gold>Has sobrepasado el gamemode (</gold><gray><gamemode></gray><gold>) <gold>configurado en la parcela </gold><gray><plot>.</gray>",
   "height.height_limit": "<prefix><gold>Esta parecela tiene límites de construccion de altura: Altura mínima: </gold><gray><minHeight></gray><gold>, Altura máxima: </gold><gray><maxHeight></gray>",
-  "notification.notify_enter": "<prefix><gray><player> entered your plot (</gray><gold><area>;<plot></gold><gray>).</gray>",
+  "notification.notify_enter": "<prefix><gray><player> ha entrado en tu parcela (</gray><gold><area>;<plot></gold><gray>).</gray>",
   "notification.notify_leave": "<prefix><gray><player> left your plot (</gray><gold><area>;<plot></gold><gray>).</gray>",
   "swap.swap_overlap": "<prefix><red>Las áreas propuestas no se pueden superponer.</red>",
   "swap.swap_success": "<prefix><dark_aqua>Parcelas intercambiadas exitósamente</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
