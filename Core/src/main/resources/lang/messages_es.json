@@ -322,7 +322,7 @@
   "debugsavetest.starting": "<prefix><gold>Iniciando guardado debug de prueba.</gold>",
   "debugsavetest.done": "<prefix><gold>Sincronización de base de datos finalizada.</gold>",
   "purge.purge_success": "<prefix><dark_aqua>Purgadas exitósamente <amount> parcelas.</dark_aqua>",
-  "purge.confirm_purge_unknown_bg_enabled": "<prefix><gray>Background UUID caching is enabled. Unknown plot owners may be found using this!</gray>",
+  "purge.confirm_purge_unknown_bg_enabled": "<prefix><gray>El caché UUID en segundo plano está activado. ¡Los propietarios de parcelas desconocidos pueden ser encontrados usando esto!</gray>",
   "purge.confirm_purge_unknown_bg_disabled": "<prefix><gray>Background UUID caching is disabled. Unknown plot owners may be found using this! Enable it in settings.yml.</gray>",
   "players.fetching_player": "<prefix><gold>Parcelas está intentando encontrar el jugador con el(los) argumento(s) especificado(s). Esto puede tardar un poco.</gold>",
   "players.fetching_players_timeout": "<prefix><red>Los usuarios especificados no existen en el caché y serán buscados en segundo plano. Espera unos minutos.</red>",
