@@ -313,7 +313,7 @@
   "errors.not_implemented": "<prefix><red>尚未实现</red>",
   "errors.stacktrace_begin": "<red>=== stacktrace（堆栈跟踪）从这开始 ===</red>",
   "errors.stacktrace_end": "<red>=== stacktrace（堆栈跟踪）自这结束 ===</red>",
-  "errors.deprecated_commands": "<prefix><red>您正在使用一个已废弃的命令，计划在下一个主要版本的PlotSquared中移除。 考虑使用合适的替代方法： </red><gold><replacement></gold>",
+  "errors.deprecated_commands": "<prefix><red>您正在使用一个已废弃的命令, 计划在下一个主要版本的PlotSquared中移除, 考虑使用合适的替代方法: </red><gold><replacement></gold>",
   "debugpaste.latest_log": "<red><file> 大于 <size>请重新启动服务器并提交新的粘贴",
   "debugpaste.empty_file": "<red>跳过 <file> ,因为它是空的",
   "debugpaste.skip_multiverse": "<red>跳过 Multiverse多世界插件的 <file> ,因为它没有被使用",
