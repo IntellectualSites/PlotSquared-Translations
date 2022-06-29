@@ -616,7 +616,7 @@
   "flags.flag_description_lectern_read_book": "<gray>Verhindert, dass Spieler Bücher aus Lesepulten entnehmen können.</gray>",
   "flags.flag_description_prevent_creative_copy": "<gray>Verhindere, dass Spieler NBT-Daten eines Gegenstandes in das Plot kopieren können, es sei denn, sie wurden als Mitglieder hinzugefügt.</gray>",
   "flags.flag_description_leaf_decay": "<gray>Setze diese Option auf 'false', um den Zerfall von Blättern zu verhindern.",
-  "flags.flag_description_projectiles": "<gray>Wenn es auf Falsch gesetzt ist verhindert es, dass Besucher Projektile auf dem Grundstück schießen können</gray>",
+  "flags.flag_description_projectiles": "<gray>Verhindert, dass Gäste Projektile auf dem Grundstück schießen können, wenn sie auf „falsch“ gesetzt sind.</gray>",
   "flags.flag_error_boolean": "Der Wert dieser Flag muss ein Wahrheitswert sein (true | false).",
   "flags.flag_error_enum": "Muss etwas sein von: <list>",
   "flags.flag_error_integer": "Der Wert dieser Flag muss eine ganze positive Zahl sein.",
