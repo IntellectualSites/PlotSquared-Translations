@@ -616,7 +616,7 @@
   "flags.flag_description_lectern_read_book": "<gray>Prevent players taking books from lecterns.</gray>",
   "flags.flag_description_prevent_creative_copy": "<gray>Previene que los jugadores copien el NBT de ítems en tu parcela a menos que sean agregados como miembros.</gray>",
   "flags.flag_description_leaf_decay": "<gray>Pon `false` para prevenir que las hojas de arbol decaigan.",
-  "flags.flag_description_projectiles": "<gray>Prevents guests from shooting projectiles on the plot when set to false.</gray>",
+  "flags.flag_description_projectiles": "<gray>Evita que los invitados disparen proyectiles en la parcela cuando se establece en falso </gray>",
   "flags.flag_error_boolean": "El Flag debe ser un booleano (true | false).",
   "flags.flag_error_enum": "Debe ser uno de: <list>",
   "flags.flag_error_integer": "El valor del Flag debe ser un número entero positivo.",
