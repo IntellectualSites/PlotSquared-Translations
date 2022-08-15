@@ -161,7 +161,7 @@
   "setup.road_width": "<gold>Ancho del camino</gold>",
   "setup.road_height": "<gold>Altura del camino</gold>",
   "setup.road_block": "<gold>Bloque del camino</gold>",
-  "setup.wall_filling_block": "<gold>Wall filling block</gold><gray> (Block(s) been put under the plot border down to min gen height + 1)</gray>",
+  "setup.wall_filling_block": "<gold>Bloque de relleno de pared</gold><gray> (Bloque(s) que se pondrán en el borde de la parcela hasta Y1)</gray>",
   "setup.wall_height": "<gold>Altura de pared</gold>",
   "setup.min_gen_height": "<gold>Minimum height from which to generate (for 1.18+ can be negative).</gold>",
   "setup.bedrock_boolean": "<gold>Debería colocarse una capa de bloques de bedrock debajo de las parcelas?</gold>",
