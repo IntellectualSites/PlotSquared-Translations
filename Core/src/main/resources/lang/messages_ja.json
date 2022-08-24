@@ -412,7 +412,7 @@
   "deny.you_got_denied": "<prefix><red>以前のプロットから拒否され、スポーン地点にテレポートされました。</red>",
   "deny.cant_remove_owner": "<prefix><red>プロット所有者を削除することはできません。</red>",
   "kick.you_got_kicked": "<prefix><dark_aqua>Plot からキックされました！</dark_aqua>",
-  "trusted.trusted_added": "<prefix><dark_aqua>このプロットからプレイヤーを追放しました。</dark_aqua>",
+  "trusted.trusted_added": "<prefix><dark_aqua>プロットに信頼したユーザーを追加しました。</dark_aqua>",
   "trusted.plot_removed_user": "<prefix><red>あなたが追加したプロット <plot> は、所有者が非アクティブのために削除されました。</red>",
   "member.removed_players": "<prefix><gray>このプロットから <amount> 人のプレイヤーを削除しました。</gray>",
   "member.plot_left": "<prefix><gray><player> がプロットから退出しました。</gray>",
