@@ -344,7 +344,7 @@
   "near.plot_near": "<prefix><gold>プレイヤー: <gray><list></gray></gold>",
   "info.none": "<gray>なし</gray>",
   "info.now": "<gray>現在</gray>",
-  "info.never": "<gray>決してありません</gray>",
+  "info.never": "<gray>永久</gray>",
   "info.unknown": "<gray>不明</gray>",
   "info.server": "<gray>Server</gray>",
   "info.everyone": "<gray>全員</gray>",
