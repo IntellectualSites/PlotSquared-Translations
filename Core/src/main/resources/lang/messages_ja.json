@@ -292,7 +292,7 @@
   "debugroadregen.regenallroads_started": "<prefix><green>PlotSquaredは入力に基づいて道路を生成します。生成には時間がかかる場合があります。</green>",
   "errors.invalid_player": "<prefix><red>プレイヤーが見つかりません: </red><gray><value></gray><red>.</red>",
   "errors.invalid_player_offline": "<prefix><gray><player></gray><red> はオンラインである必要があります。</red>",
-  "errors.invalid_command_flag": "<prefix><red>無効なコマンドフラグ: </red><value></gray>",
+  "errors.invalid_command_flag": "<prefix><red>無効なコマンドフラグ: </red><value>",
   "errors.error": "<prefix><red>エラーが発生しました: </red><gray><value></gray>",
   "errors.error_create": "<prefix><red>ワールドの作成中にエラーが発生しました: <gray><world></gray></red>",
   "errors.error_console": "<prefix><red>エラーが発生しました。詳細はコンソールを参照してください。</red>",
