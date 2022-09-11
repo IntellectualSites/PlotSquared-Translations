@@ -22,7 +22,7 @@
   "web.plot_merged": "<prefix><red>Questo lotto è unito e quindi non può essere scaricato</red>",
   "web.generating_link_failed": "<prefix><red>Impossibile generare il link di download per il lotto <plot>!</red>",
   "web.generation_link_success": "<prefix><gold>Scarica: <gray><click:open_url:<download>><download></click></gray> \n Elimina: <gray><click:open_url:<delete>><delete></click></gray>\n<red>Attenzione: Aprire il link di cancellazione cancellerà il file immediatamente.</red></gold>",
-  "web.generation_link_success_legacy_world": "<prefix><gold>Scarica il debug completo: <gray><click:open_url:<url>><url></click></gray>",
+  "web.generation_link_success_legacy_world": "<prefix><gold>Scarica il de bug completo: <gray><click:open_url:<url>><url></click></gray>",
   "web.save_failed": "<prefix><red>Salvataggio non riuscito.</red>",
   "web.load_null": "<prefix><gray>Usa </gray><dark_aqua><command> </dark_aqua><gray>per leggere la lista di schematic.</gray>",
   "web.load_failed": "<prefix><red>Impossibile caricare la schematic.</red>",
