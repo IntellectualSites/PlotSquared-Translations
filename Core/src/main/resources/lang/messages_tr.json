@@ -2,7 +2,7 @@
   "confirm.expired_confirm": "<prefix><red>Onay süresi doldu, lütfen komutu tekrar girin!</red>",
   "confirm.failed_confirm": "Onaylamak için bekleyen bir işleminiz yok",
   "confirm.requires_confirm": "<prefix><gray>Çalıştırmak istediğinizden emin misiniz: </gray><gold><command></gold><gray>?</gray>\n<red>Bu geri alınamaz! Eğer eminseniz: </red><gray><value></gray>\n<gray>İstek <red><timeout></red><gray> saniye içerisinde zaman aşımına uğrayacak. ",
-  "move.move_success": "<prefix><dark_aqua>Successfully moved the plot</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
+  "move.move_success": "test",
   "move.move_merged": "<prefix><red>Birleştirilmiş arsalar taşınamaz. Lütfen işlemi gerçekleştirmeden önce arsayı ayırın.</red>",
   "move.copy_success": "<prefix><dark_aqua>Successfully copied plots</dark_aqua> <gold><origin></gold><dark_aqua> -> </dark_aqua><gold><target></gold>",
   "move.requires_unowned": "<prefix><red>Belirtilen konum zaten alınmış.</red>",
