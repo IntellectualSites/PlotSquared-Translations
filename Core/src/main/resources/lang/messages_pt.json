@@ -231,7 +231,7 @@
   "invalid.not_allowed_block": "<prefix><red>Esse bloco não é permitido: <gray><value></gray></red>",
   "invalid.not_valid_number": "<prefix><red>Este não é um número válido dentro do intervalo: </red><gray><value></gray>",
   "invalid.not_valid_plot_id": "<prefix><red>Esse não é um ID de terreno válido.</red>",
-  "invalid.origin_cant_be_target": "<prefix><red>The origin and target location cannot be the same.</red>",
+  "invalid.origin_cant_be_target": "<prefix><red>A origem e o local de destino não podem ser os mesmos</red>",
   "invalid.found_no_plots": "<prefix><red>Não foi encontrado nenhum terreno com a sua pesquisa.</red>",
   "invalid.number_not_in_range": "<prefix><red>That's not a valid number within the range: <gray>(<min>, <max>)</gray></red>",
   "invalid.number_not_positive": "<red>Este não é um número positivo: <gray><value></gray></red>",
