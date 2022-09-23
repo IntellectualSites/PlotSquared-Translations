@@ -53,7 +53,7 @@
   "cluster.cluster_regenerated": "<prefix><dark_aqua>Neuerzeugung von Clustern erfolgreich gestartet.</dark_aqua>",
   "cluster.cluster_teleporting": "<prefix><dark_aqua>Du wirst teleportiert...</dark_aqua>",
   "cluster.cluster_info": "<prefix><gold>Aktuelles Cluster: </gold><gray><id></gray>\n<gold>Name: </gold><gray><name></gray>\n<gold>Besitzer: </gold><gray><owner></gray>\n<gold>Größe: </gold><gray><size></gray>\n<gold>Rechte: </gold><gray><rights></gray>",
-  "border.denied": "<prefix><red>Du befindest dich außerhalb der aktuellen Weltengrenze.</red>",
+  "border.denied": "<prefix><red>Du befindest dich außerhalb der aktuellen Welten grenze.</red>",
   "border.bypass.exited": "<prefix><red>Sie haben den aktuellen Kartenrand überschritten.</red>",
   "border.bypass.entered": "<prefix><gray>Du hast die aktuelle Weltengrenze erneut betreten.</gray>",
   "worldedit.worldedit_bypass": "<prefix><gray><italic>Um deine Einschränkungen zu umgehen, verwende </gray><dark_aqua><command></dark_aqua></italic>",
