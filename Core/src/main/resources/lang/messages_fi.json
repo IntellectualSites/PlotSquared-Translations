@@ -163,7 +163,7 @@
   "setup.road_block": "<gold>Tien materiaali</gold>",
   "setup.wall_filling_block": "<gold>Wall filling block</gold><gray> (Block(s) been put under the plot border down to min gen height + 1)</gray>",
   "setup.wall_height": "<gold>Reunojen korkeustaso</gold>",
-  "setup.min_gen_height": "<gold>Minimum height from which to generate (for 1.18+ can be negative).</gold>",
+  "setup.min_gen_height": "<gold>Pienin korkeus, josta generoida (1,18 + voi olla negatiivinen).</gold>",
   "setup.bedrock_boolean": "<gold>Generoidaanko plotille pohja peruskalliosta?</gold>",
   "setup.singleplotarea_void_world": "<gold>Void-maailma</gold>",
   "plotareatype.plot_area_type_normal": "<gray>Plotit tasaisessa maastossa</gray>",
