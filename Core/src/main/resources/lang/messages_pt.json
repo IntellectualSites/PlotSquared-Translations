@@ -408,7 +408,7 @@
   "chat.plot_chat_format": "<gray>[<gold>Plot Chat</gold>] [<gold><world>;<plot_id></gold>] <gold><sender></gold>: <gold><msg></gold></gray>",
   "chat.plot_chat_forced": "<prefix><gray>This world forces everyone to use plot chat.</gray>",
   "deny.denied_added": "<prefix><dark_aqua>You successfully denied the player from this plot.</dark_aqua>",
-  "deny.no_enter": "<prefix><red>You are denied from the plot <red><gold><plot></gold><red> and therefore not allowed to enter.</red>",
+  "deny.no_enter": "<prefix><red>Você está banido do plot, <red><gold><plotá></gold><red> portanto, não tem permissão para entrar.</red>",
   "deny.you_got_denied": "<prefix><red>You are denied from the plot you were previously on, and got teleported to spawn.</red>",
   "deny.cant_remove_owner": "<prefix><red>Você não pode remover o proprietário do terreno.</red>",
   "kick.you_got_kicked": "<prefix><dark_aqua>You got kicked from the plot!</dark_aqua>",
