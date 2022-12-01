@@ -660,7 +660,7 @@
   "commands.description.delete": "<gray>Удалить участок, на котором вы стоите.</gray>",
   "commands.description.deny": "<gray>Запретить пользователям входить на участк.</gray>",
   "commands.description.dislike": "<gray>Не нравится участок.</gray>",
-  "commands.description.done": "<gray>Продолжить участок, который ранее был отмечен как завершенный.</gray>",
+  "commands.description.done": "<gray>Завершить участок.</gray>",
   "commands.description.download": "<gray>Скачайте ваш участок.</gray>",
   "commands.description.flag": "<gray>Управление флагами участка.</gray>",
   "commands.description.flag.set": "<gray>Установить флаг участка.</gray>",
