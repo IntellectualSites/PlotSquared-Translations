@@ -55,7 +55,7 @@
   "cluster.cluster_info": "<prefix><gold>Huidige cluster: </gold><gray><id></gray>\n<gold>Naam: </gold><gray><name></gray>\n<gold>Eigenaar: </gold><gray><owner></gray>\n<gold>Grootte: </gold><gray><size></gray>\n<gold>Rechten: </gold><gray><rights></gray>",
   "border.denied": "<prefix><red>Je bent buiten de huidige grens van de wereld.</red>",
   "border.bypass.exited": "<prefix><red>Je hebt de huidige grens van de wereld omzeild.</red>",
-  "border.bypass.entered": "<prefix><gray>Je bent opnieuw de grens van het gebied betreden.</gray>",
+  "border.bypass.entered": "<prefix><gray>Je bent opnieuw de grens van de wereld betreden.</gray>",
   "worldedit.worldedit_bypass": "<prefix><gray><italic>Om uw beperkingen te omzeilen, gebruik </gray><dark_aqua><command></dark_aqua></italic>",
   "worldedit.worldedit_bypassed": "<prefix><gray>Momenteel WorldEdit beperkingen aan het omzeilen.</gray>",
   "gamemode.gamemode_was_bypassed": "<prefix><gold>Je hebt de spelmodus (</gold><gray><gamemode></gray><gold>) <gold>omzeild voor </gold><gray><plot>.</gray>",
