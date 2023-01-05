@@ -245,7 +245,7 @@
   "condense.task_complete": "<prefix><gold>Ação completa. Favor, verifique se nenhum terreno foi reivindicado durante a ação.</gold>",
   "condense.moving": "<gold>Movendo: </gold><gray><origin></gray><gold> -> </gold><green><possible></green>",
   "condense.task_failed": "<prefix><red>Tarefa falhada. Nenhum terreno livre encontrado.</red>",
-  "condense.skipping": "<prefix><red>Skipping complex plot: </red><gold><plot></gold><red>.</red>",
+  "condense.skipping": "<prefix><red>Pulando sobre o terreno complexo",
   "condense.task_stopped": "<prefix><gold>Tarefa já foi interrompida.</gold>",
   "condense.default_eval": "<dark_gray><strikethrough>=== <reset> <gold>AVALIAÇÃO PADRÃO </gold><dark_gray><strikethrough>===</dark_gray>",
   "condense.minimum_radius": "<gold>Raio mínimo: </gold><gray><minimumRadius></gray>",
