@@ -564,7 +564,7 @@
   "flags.flag_description_ice_form": "<gray>Setze diese Option auf 'true', um die Bildung von Eis auf dem Plot zu ermöglichen.</gray>",
   "flags.flag_description_ice_melt": "<gray>Setze diese Option auf 'false', um die Schmelzung von Eis auf dem Plot zu verhindern.</gray>",
   "flags.flag_description_instabreak": "<gray>Setze diese Option auf 'true', um eine sofortige Zerstörung von Blöcken im Überlebensmodus zu erlauben.</gray>",
-  "flags.flag_description_invincible": "<gray>Setze diese Option auf 'true', um zu verhindern, dass Spieler auf dem Grundstück Schaden erleiden.</gray>",
+  "flags.flag_description_invincible": "<gray>Setze diese Option auf 'true', um zu verhindern, dass Spieler auf dem Grundstück Schaden bekommen.</gray>",
   "flags.flag_description_item_drop": "<gray>Setze diese Option auf 'false', um das Fallenlassen von Gegenständen auf dem Grundstück zu verhindern.</gray>",
   "flags.flag_description_kelp_grow": "<gray>Setze diese Option auf 'false', um das Wachstum des Seetangs auf dem Plot zu verhindern.</gray>",
   "flags.flag_description_liquid_flow": "<gray>Setze diese Option auf 'false', um das Fließen von Flüssigkeiten auf dem Plot zu verhindern.</gray>",
